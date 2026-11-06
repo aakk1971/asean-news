@@ -1,0 +1,41 @@
+name: Generate TV audio (Azure TTS)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'ASEAN-TV-*.html'
+      - 'generate-tts.py'
+      - '.github/workflows/generate-audio.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tts-audio
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # Only run if the Azure key is configured
+    if: ${{ vars.TTS_ENABLED == 'true' || github.event_name == 'workflow_dispatch' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate TTS script
+        run: python generate-tts.py --self-test
+      - name: Generate audio files
+        env:
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+        run: python generate-tts.py
+      - name: Commit audio files
+        run: |
+          if [ ! -d audio ]; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Generate TV audio (Azure TTS newscast voices)"
+          git push
