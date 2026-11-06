@@ -1,0 +1,39 @@
+name: Refresh ASEAN headlines
+on:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - refresh-news.py
+      - news-sources.json
+      - .github/workflows/refresh-news.yml
+permissions:
+  contents: write
+concurrency:
+  group: asean-headlines
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate collector
+        run: python refresh-news.py --self-test
+      - name: Fetch source headlines
+        run: python refresh-news.py
+      - name: Save feed and health status
+        if: always()
+        run: |
+          if [ ! -f news-feed.json ]; then exit 1; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news-feed.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Refresh source headlines and feed health"
+          git push
