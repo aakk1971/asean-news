@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": null,
+  "lastSuccessfulAt": null,
+  "status": "pending-first-refresh",
+  "items": [],
+  "sources": [],
+  "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
+}

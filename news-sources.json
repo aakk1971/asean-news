@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "feeds": [
+    {
+      "id": "antara-business",
+      "name": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "url": "https://en.antaranews.com/rss/business-investment.xml",
+      "fallbackUrls": [
+        "https://en.antaranews.com/rss/news.xml"
+      ],
+      "allowedHosts": [
+        "en.antaranews.com",
+        "www.antaranews.com"
+      ],
+      "documentation": "https://en.antaranews.com/rss",
+      "type": "publisher-headlines"
+    },
+    {
+      "id": "sfa-newsroom",
+      "name": "Singapore Food Agency",
+      "country": "Singapore",
+      "url": "https://www.sfa.gov.sg/rss/newsroom",
+      "fallbackUrls": [],
+      "allowedHosts": [
+        "www.sfa.gov.sg",
+        "sfa.gov.sg"
+      ],
+      "documentation": "https://www.sfa.gov.sg/news-publications/newsroom/subscribe-to-sfa-rss-feeds",
+      "type": "official-headlines"
+    }
+  ],
+  "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
+}
