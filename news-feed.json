@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-07T01:51:32.746764+00:00",
-  "lastSuccessfulAt": "2026-11-07T01:51:32.746764+00:00",
-  "status": "partial",
+  "checkedAt": "2026-11-07T08:08:44.002996+00:00",
+  "lastSuccessfulAt": "2026-11-07T08:08:44.002996+00:00",
+  "status": "ok",
   "items": [
     {
       "id": "639e155da7454957",
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-07T01:51:32.746764+00:00",
+      "checkedAt": "2026-11-07T08:08:44.002996+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,9 +380,9 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-07T01:51:32.746764+00:00",
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "checkedAt": "2026-11-07T08:08:44.002996+00:00",
+      "ok": true,
+      "itemsFound": 0
     }
   ],
   "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
