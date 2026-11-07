@@ -1,9 +1,33 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-06T22:02:31.777586+00:00",
-  "lastSuccessfulAt": "2026-11-06T22:02:31.777586+00:00",
+  "checkedAt": "2026-11-07T01:51:32.746764+00:00",
+  "lastSuccessfulAt": "2026-11-07T01:51:32.746764+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "639e155da7454957",
+      "title": "Indonesia urged to diversify energy sources to boost energy security",
+      "url": "https://en.antaranews.com/news/440915/indonesia-urged-to-diversify-energy-sources-to-boost-energy-security",
+      "publishedAt": "2026-11-06T22:36:37+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-07T01:51:32.746764+00:00"
+    },
+    {
+      "id": "ff7210a16c2e4016",
+      "title": "Indonesia secures Rp6.3 trillion in commitments at London forum",
+      "url": "https://en.antaranews.com/news/440911/indonesia-secures-rp63-trillion-in-commitments-at-london-forum",
+      "publishedAt": "2026-11-06T22:27:08+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-07T01:51:32.746764+00:00"
+    },
     {
       "id": "47d5e07e6d886a07",
       "title": "Ministry urges local franchises to tap capital market",
@@ -339,30 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-06T09:23:39.521621+00:00"
-    },
-    {
-      "id": "a4d29efe0fcb41ec",
-      "title": "BI sees Indonesia's 2026 economic growth reaching 4.9--5.7 percent",
-      "url": "https://en.antaranews.com/news/440603/bi-sees-indonesias-2026-economic-growth-reaching-49-57-percent",
-      "publishedAt": "2026-11-05T22:01:18+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-06T09:23:39.521621+00:00"
-    },
-    {
-      "id": "e1b44cc6417dc5c5",
-      "title": "El Niño could delay Indonesia's rice harvest, raising Eid supply risk",
-      "url": "https://en.antaranews.com/news/440599/el-nio-could-delay-indonesias-rice-harvest-raising-eid-supply-risk",
-      "publishedAt": "2026-11-05T15:39:14+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-06T09:23:39.521621+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-06T22:02:31.777586+00:00",
+      "checkedAt": "2026-11-07T01:51:32.746764+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-06T22:02:31.777586+00:00",
+      "checkedAt": "2026-11-07T01:51:32.746764+00:00",
       "ok": false,
       "error": "HTTPError: HTTP Error 403: Forbidden"
     }
