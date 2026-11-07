@@ -1,9 +1,57 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-07T08:08:44.002996+00:00",
-  "lastSuccessfulAt": "2026-11-07T08:08:44.002996+00:00",
-  "status": "ok",
+  "checkedAt": "2026-11-07T14:57:24.612396+00:00",
+  "lastSuccessfulAt": "2026-11-07T14:57:24.612396+00:00",
+  "status": "partial",
   "items": [
+    {
+      "id": "7b14e71b51270a94",
+      "title": "Indonesia taps affluent travelers to drive higher tourist spending",
+      "url": "https://en.antaranews.com/news/441007/indonesia-taps-affluent-travelers-to-drive-higher-tourist-spending",
+      "publishedAt": "2026-11-07T12:12:09+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-07T14:57:24.612396+00:00"
+    },
+    {
+      "id": "8bbfed9c1abd30f0",
+      "title": "Indonesia seek deeper industrial, tech ties with Tatarstan",
+      "url": "https://en.antaranews.com/news/440979/indonesia-seek-deeper-industrial-tech-ties-with-tatarstan",
+      "publishedAt": "2026-11-07T10:24:59+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-07T14:57:24.612396+00:00"
+    },
+    {
+      "id": "9909eca09640436a",
+      "title": "Indonesia intensifies investment to expand quality employment",
+      "url": "https://en.antaranews.com/news/440975/indonesia-intensifies-investment-to-expand-quality-employment",
+      "publishedAt": "2026-11-07T09:59:47+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-07T14:57:24.612396+00:00"
+    },
+    {
+      "id": "3cded96996af23b7",
+      "title": "Ministry intensifies land transport safety ahead of year-end holidays",
+      "url": "https://en.antaranews.com/news/440971/ministry-intensifies-land-transport-safety-ahead-of-year-end-holidays",
+      "publishedAt": "2026-11-07T09:57:51+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-07T14:57:24.612396+00:00"
+    },
     {
       "id": "639e155da7454957",
       "title": "Indonesia urged to diversify energy sources to boost energy security",
@@ -315,54 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-06T09:23:39.521621+00:00"
-    },
-    {
-      "id": "302ad6a1c560392b",
-      "title": "Indonesia's consumption growth relies on fiscal stimulus: Indef",
-      "url": "https://en.antaranews.com/news/440707/indonesias-consumption-growth-relies-on-fiscal-stimulus-indef",
-      "publishedAt": "2026-11-06T05:49:30+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-06T09:23:39.521621+00:00"
-    },
-    {
-      "id": "c36a82ba501e3df3",
-      "title": "Hangzhou Chamber of Commerce established in Indonesia",
-      "url": "https://en.antaranews.com/news/440699/hangzhou-chamber-of-commerce-established-in-indonesia",
-      "publishedAt": "2026-11-06T05:40:56+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-06T09:23:39.521621+00:00"
-    },
-    {
-      "id": "a0a339b5d2a83c9b",
-      "title": "Gov't consumption supports Indonesia's Q3 2026 economic growth",
-      "url": "https://en.antaranews.com/news/440655/govt-consumption-supports-indonesias-q3-2026-economic-growth",
-      "publishedAt": "2026-11-06T03:53:10+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-06T09:23:39.521621+00:00"
-    },
-    {
-      "id": "6eba2f5a1c83e5a1",
-      "title": "Indonesia's wildfires weigh on forestry, regional growth: BPS",
-      "url": "https://en.antaranews.com/news/440639/indonesias-wildfires-weigh-on-forestry-regional-growth-bps",
-      "publishedAt": "2026-11-06T03:19:00+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-06T09:23:39.521621+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-07T08:08:44.002996+00:00",
+      "checkedAt": "2026-11-07T14:57:24.612396+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,9 +380,9 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-07T08:08:44.002996+00:00",
-      "ok": true,
-      "itemsFound": 0
+      "checkedAt": "2026-11-07T14:57:24.612396+00:00",
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     }
   ],
   "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
