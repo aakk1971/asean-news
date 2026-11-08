@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-07T22:57:48.140450+00:00",
-  "lastSuccessfulAt": "2026-11-07T22:57:48.140450+00:00",
+  "checkedAt": "2026-11-08T02:22:37.125683+00:00",
+  "lastSuccessfulAt": "2026-11-08T02:22:37.125683+00:00",
   "status": "ok",
   "items": [
     {
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-07T22:57:48.140450+00:00",
+      "checkedAt": "2026-11-08T02:22:37.125683+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-07T22:57:48.140450+00:00",
+      "checkedAt": "2026-11-08T02:22:37.125683+00:00",
       "ok": true,
       "itemsFound": 0
     }
