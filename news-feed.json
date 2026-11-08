@@ -1,9 +1,57 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-08T09:26:45.055026+00:00",
-  "lastSuccessfulAt": "2026-11-08T09:26:45.055026+00:00",
+  "checkedAt": "2026-11-08T16:17:14.052077+00:00",
+  "lastSuccessfulAt": "2026-11-08T16:17:14.052077+00:00",
   "status": "ok",
   "items": [
+    {
+      "id": "ce32216ffbcc2cba",
+      "title": "Bali launches free electric bus service on Trans Sarbagita route",
+      "url": "https://en.antaranews.com/news/441211/bali-launches-free-electric-bus-service-on-trans-sarbagita-route",
+      "publishedAt": "2026-11-08T14:27:31+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-08T16:17:14.052077+00:00"
+    },
+    {
+      "id": "75f5477fd47387fd",
+      "title": "KAI offers 30 percent discount on for year-end holidays",
+      "url": "https://en.antaranews.com/news/441183/kai-offers-30-percent-discount-on-for-year-end-holidays",
+      "publishedAt": "2026-11-08T10:54:41+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-08T16:17:14.052077+00:00"
+    },
+    {
+      "id": "9049cfb4c2ecd1d1",
+      "title": "Indonesia prepares eighth trainset to meet rising Commuter Line demand",
+      "url": "https://en.antaranews.com/news/441175/indonesia-prepares-eighth-trainset-to-meet-rising-commuter-line-demand",
+      "publishedAt": "2026-11-08T10:02:39+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-08T16:17:14.052077+00:00"
+    },
+    {
+      "id": "568197657c17ef61",
+      "title": "Indonesian govt tightens checks on subsidized rice after fraud cases",
+      "url": "https://en.antaranews.com/news/441171/indonesian-govt-tightens-checks-on-subsidized-rice-after-fraud-cases",
+      "publishedAt": "2026-11-08T09:28:00+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-08T16:17:14.052077+00:00"
+    },
     {
       "id": "8ef694fc5854c6c4",
       "title": "International concerts boost foreign tourist arrivals: Ministry",
@@ -315,54 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-06T16:55:33.672893+00:00"
-    },
-    {
-      "id": "74de6f9aa0363788",
-      "title": "Indonesia's foreign exchange reserves hit US$146.8 bln in October: BI",
-      "url": "https://en.antaranews.com/news/440851/indonesias-foreign-exchange-reserves-hit-us1468-bln-in-october-bi",
-      "publishedAt": "2026-11-06T10:50:31+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-06T16:55:33.672893+00:00"
-    },
-    {
-      "id": "bf8d391acd4cc902",
-      "title": "Indonesia expands Plantation Fund Agency mandate to cocoa, coconut",
-      "url": "https://en.antaranews.com/news/440843/indonesia-expands-plantation-fund-agency-mandate-to-cocoa-coconut",
-      "publishedAt": "2026-11-06T10:41:07+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-06T16:55:33.672893+00:00"
-    },
-    {
-      "id": "48531fa5cc890b81",
-      "title": "Energy transition to run gradually with renewable energy focus: DEN",
-      "url": "https://en.antaranews.com/news/440835/energy-transition-to-run-gradually-with-renewable-energy-focus-den",
-      "publishedAt": "2026-11-06T10:27:36+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-06T16:55:33.672893+00:00"
-    },
-    {
-      "id": "6ccd7d9de6ec58f7",
-      "title": "Jakarta opens door to investment from China's Hangzhou",
-      "url": "https://en.antaranews.com/news/440827/jakarta-opens-door-to-investment-from-chinas-hangzhou",
-      "publishedAt": "2026-11-06T10:15:47+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-06T16:55:33.672893+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-08T09:26:45.055026+00:00",
+      "checkedAt": "2026-11-08T16:17:14.052077+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-08T09:26:45.055026+00:00",
+      "checkedAt": "2026-11-08T16:17:14.052077+00:00",
       "ok": true,
       "itemsFound": 0
     }
