@@ -1,9 +1,21 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-09T00:09:00.914381+00:00",
-  "lastSuccessfulAt": "2026-11-09T00:09:00.914381+00:00",
+  "checkedAt": "2026-11-09T06:54:31.704873+00:00",
+  "lastSuccessfulAt": "2026-11-09T06:54:31.704873+00:00",
   "status": "ok",
   "items": [
+    {
+      "id": "5ea5b1afa361239c",
+      "title": "BRI considers subsidiary mergers, acquisitions under SOE overhaul",
+      "url": "https://en.antaranews.com/news/441291/bri-considers-subsidiary-mergers-acquisitions-under-soe-overhaul",
+      "publishedAt": "2026-11-09T06:24:25+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-09T06:54:31.704873+00:00"
+    },
     {
       "id": "ce32216ffbcc2cba",
       "title": "Bali launches free electric bus service on Trans Sarbagita route",
@@ -351,18 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-06T16:55:33.672893+00:00"
-    },
-    {
-      "id": "2c4537f8b9306d0b",
-      "title": "Indonesia adds South Korea, Japan, EU to DHE SDA exemption list",
-      "url": "https://en.antaranews.com/news/440855/indonesia-adds-south-korea-japan-eu-to-dhe-sda-exemption-list",
-      "publishedAt": "2026-11-06T10:56:15+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-06T16:55:33.672893+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-09T00:09:00.914381+00:00",
+      "checkedAt": "2026-11-09T06:54:31.704873+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-09T00:09:00.914381+00:00",
+      "checkedAt": "2026-11-09T06:54:31.704873+00:00",
       "ok": true,
       "itemsFound": 0
     }
