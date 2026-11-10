@@ -1,9 +1,45 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-10T07:55:23.719748+00:00",
-  "lastSuccessfulAt": "2026-11-10T07:55:23.719748+00:00",
+  "checkedAt": "2026-11-10T16:23:31.339100+00:00",
+  "lastSuccessfulAt": "2026-11-10T16:23:31.339100+00:00",
   "status": "ok",
   "items": [
+    {
+      "id": "4991d6defc1fb19e",
+      "title": "Cultural diversity key asset for Indonesian film industry: Ministry",
+      "url": "https://en.antaranews.com/news/441667/cultural-diversity-key-asset-for-indonesian-film-industry-ministry",
+      "publishedAt": "2026-11-10T15:16:12+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-10T16:23:31.339100+00:00"
+    },
+    {
+      "id": "ecd20e5d96c2471a",
+      "title": "Indonesia courts Austrian investment for transport infrastructure",
+      "url": "https://en.antaranews.com/news/441655/indonesia-courts-austrian-investment-for-transport-infrastructure",
+      "publishedAt": "2026-11-10T11:43:31+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-10T16:23:31.339100+00:00"
+    },
+    {
+      "id": "25e53e450c67c5d9",
+      "title": "Indonesia vows to continue capital market reforms ahead of MSCI review",
+      "url": "https://en.antaranews.com/news/441595/indonesia-vows-to-continue-capital-market-reforms-ahead-of-msci-review",
+      "publishedAt": "2026-11-10T09:59:41+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-10T16:23:31.339100+00:00"
+    },
     {
       "id": "6679481f2c59c3ae",
       "title": "Indonesia tests PNM financing scheme with interest capped at 8 percent",
@@ -327,42 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
-    },
-    {
-      "id": "c3c034be13dd479f",
-      "title": "Indonesia unveils requirements for worker wage subsidy program",
-      "url": "https://en.antaranews.com/news/441051/indonesia-unveils-requirements-for-worker-wage-subsidy-program",
-      "publishedAt": "2026-11-08T06:11:09+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
-    },
-    {
-      "id": "e31beaa380e14a90",
-      "title": "Indonesia advances transport emissions cuts through UK partnership",
-      "url": "https://en.antaranews.com/news/441047/indonesia-advances-transport-emissions-cuts-through-uk-partnership",
-      "publishedAt": "2026-11-08T06:09:10+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
-    },
-    {
-      "id": "0209ca3971a14f19",
-      "title": "Indonesia allocates $48.7 million for year-end travel discounts",
-      "url": "https://en.antaranews.com/news/441035/indonesia-allocates-487-million-for-year-end-travel-discounts",
-      "publishedAt": "2026-11-08T04:42:24+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-10T07:55:23.719748+00:00",
+      "checkedAt": "2026-11-10T16:23:31.339100+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-10T07:55:23.719748+00:00",
+      "checkedAt": "2026-11-10T16:23:31.339100+00:00",
       "ok": true,
       "itemsFound": 0
     }
