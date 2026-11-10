@@ -1,9 +1,21 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-09T17:24:43.744762+00:00",
-  "lastSuccessfulAt": "2026-11-09T17:24:43.744762+00:00",
+  "checkedAt": "2026-11-10T00:51:02.142942+00:00",
+  "lastSuccessfulAt": "2026-11-10T00:51:02.142942+00:00",
   "status": "ok",
   "items": [
+    {
+      "id": "a12c0d6845fe7739",
+      "title": "Indonesia's exports rise 5.58 percent through September: Minister",
+      "url": "https://en.antaranews.com/news/441435/indonesias-exports-rise-558-percent-through-september-minister",
+      "publishedAt": "2026-11-09T21:46:42+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-10T00:51:02.142942+00:00"
+    },
     {
       "id": "1a61b46837eb94c8",
       "title": "Indonesia launches regional desks to accelerate investment",
@@ -351,18 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-07T14:57:24.612396+00:00"
-    },
-    {
-      "id": "3cded96996af23b7",
-      "title": "Ministry intensifies land transport safety ahead of year-end holidays",
-      "url": "https://en.antaranews.com/news/440971/ministry-intensifies-land-transport-safety-ahead-of-year-end-holidays",
-      "publishedAt": "2026-11-07T09:57:51+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-07T14:57:24.612396+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-09T17:24:43.744762+00:00",
+      "checkedAt": "2026-11-10T00:51:02.142942+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-09T17:24:43.744762+00:00",
+      "checkedAt": "2026-11-10T00:51:02.142942+00:00",
       "ok": true,
       "itemsFound": 0
     }
