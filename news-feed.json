@@ -1,9 +1,45 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-10T00:51:02.142942+00:00",
-  "lastSuccessfulAt": "2026-11-10T00:51:02.142942+00:00",
+  "checkedAt": "2026-11-10T07:55:23.719748+00:00",
+  "lastSuccessfulAt": "2026-11-10T07:55:23.719748+00:00",
   "status": "ok",
   "items": [
+    {
+      "id": "6679481f2c59c3ae",
+      "title": "Indonesia tests PNM financing scheme with interest capped at 8 percent",
+      "url": "https://en.antaranews.com/news/441559/indonesia-tests-pnm-financing-scheme-with-interest-capped-at-8-percent",
+      "publishedAt": "2026-11-10T07:22:10+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-10T07:55:23.719748+00:00"
+    },
+    {
+      "id": "429d4e6dc68d2920",
+      "title": "Ministry backs event-based tour packages to lengthen tourist stays",
+      "url": "https://en.antaranews.com/news/441527/ministry-backs-event-based-tour-packages-to-lengthen-tourist-stays",
+      "publishedAt": "2026-11-10T06:00:20+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-10T07:55:23.719748+00:00"
+    },
+    {
+      "id": "6ccc85ce4326fcbb",
+      "title": "Indonesia seeks innovative funding for national park conservation",
+      "url": "https://en.antaranews.com/news/441499/indonesia-seeks-innovative-funding-for-national-park-conservation",
+      "publishedAt": "2026-11-10T04:37:45+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-10T07:55:23.719748+00:00"
+    },
     {
       "id": "a12c0d6845fe7739",
       "title": "Indonesia's exports rise 5.58 percent through September: Minister",
@@ -327,42 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
-    },
-    {
-      "id": "7b14e71b51270a94",
-      "title": "Indonesia taps affluent travelers to drive higher tourist spending",
-      "url": "https://en.antaranews.com/news/441007/indonesia-taps-affluent-travelers-to-drive-higher-tourist-spending",
-      "publishedAt": "2026-11-07T12:12:09+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-07T14:57:24.612396+00:00"
-    },
-    {
-      "id": "8bbfed9c1abd30f0",
-      "title": "Indonesia seek deeper industrial, tech ties with Tatarstan",
-      "url": "https://en.antaranews.com/news/440979/indonesia-seek-deeper-industrial-tech-ties-with-tatarstan",
-      "publishedAt": "2026-11-07T10:24:59+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-07T14:57:24.612396+00:00"
-    },
-    {
-      "id": "9909eca09640436a",
-      "title": "Indonesia intensifies investment to expand quality employment",
-      "url": "https://en.antaranews.com/news/440975/indonesia-intensifies-investment-to-expand-quality-employment",
-      "publishedAt": "2026-11-07T09:59:47+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-07T14:57:24.612396+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-10T00:51:02.142942+00:00",
+      "checkedAt": "2026-11-10T07:55:23.719748+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-10T00:51:02.142942+00:00",
+      "checkedAt": "2026-11-10T07:55:23.719748+00:00",
       "ok": true,
       "itemsFound": 0
     }
