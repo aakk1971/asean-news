@@ -1,9 +1,57 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-11T01:53:38.870024+00:00",
-  "lastSuccessfulAt": "2026-11-11T01:53:38.870024+00:00",
+  "checkedAt": "2026-11-11T09:16:17.915434+00:00",
+  "lastSuccessfulAt": "2026-11-11T09:16:17.915434+00:00",
   "status": "ok",
   "items": [
+    {
+      "id": "ec659d1208d4f51c",
+      "title": "Indonesia drives tourism as new source of regional economic growth",
+      "url": "https://en.antaranews.com/news/441731/indonesia-drives-tourism-as-new-source-of-regional-economic-growth",
+      "publishedAt": "2026-11-11T06:21:39+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-11T09:16:17.915434+00:00"
+    },
+    {
+      "id": "9e7b41d61f77d8d5",
+      "title": "Indonesia trains KDMP treasurers to strengthen cooperative management",
+      "url": "https://en.antaranews.com/news/441707/indonesia-trains-kdmp-treasurers-to-strengthen-cooperative-management",
+      "publishedAt": "2026-11-11T04:47:24+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-11T09:16:17.915434+00:00"
+    },
+    {
+      "id": "bb765d0980cd8228",
+      "title": "Indonesia launches CarbonNex to boost carbon cooperation at COP31",
+      "url": "https://en.antaranews.com/news/441703/indonesia-launches-carbonnex-to-boost-carbon-cooperation-at-cop31",
+      "publishedAt": "2026-11-11T04:00:29+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-11T09:16:17.915434+00:00"
+    },
+    {
+      "id": "dad8dee24425ce46",
+      "title": "Indonesia targets full waste management by 2029, ends open dumping",
+      "url": "https://en.antaranews.com/news/441699/indonesia-targets-full-waste-management-by-2029-ends-open-dumping",
+      "publishedAt": "2026-11-11T02:06:51+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-11T09:16:17.915434+00:00"
+    },
     {
       "id": "8855297b7f0eb6ac",
       "title": "Govt prepares Rp883 bln subsidy for Christmas, New Year travel period",
@@ -315,54 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
-    },
-    {
-      "id": "7296ab65981e04e6",
-      "title": "PAM JAYA develops 103 sites for Jakarta water projects",
-      "url": "https://en.antaranews.com/news/441123/pam-jaya-develops-103-sites-for-jakarta-water-projects",
-      "publishedAt": "2026-11-08T08:25:30+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
-    },
-    {
-      "id": "815268725544667e",
-      "title": "Circular economy to create millions of new jobs: Minister",
-      "url": "https://en.antaranews.com/news/441119/circular-economy-to-create-millions-of-new-jobs-minister",
-      "publishedAt": "2026-11-08T08:21:41+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
-    },
-    {
-      "id": "9c92e1299efc58b3",
-      "title": "Indonesia lands $138 million in investment commitments from Europe",
-      "url": "https://en.antaranews.com/news/441107/indonesia-lands-138-million-in-investment-commitments-from-europe",
-      "publishedAt": "2026-11-08T07:56:01+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
-    },
-    {
-      "id": "b31edb6501e71311",
-      "title": "Indonesia enters second year of rice import independence: Minister",
-      "url": "https://en.antaranews.com/news/441103/indonesia-enters-second-year-of-rice-import-independence-minister",
-      "publishedAt": "2026-11-08T07:39:55+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-11T01:53:38.870024+00:00",
+      "checkedAt": "2026-11-11T09:16:17.915434+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-11T01:53:38.870024+00:00",
+      "checkedAt": "2026-11-11T09:16:17.915434+00:00",
       "ok": true,
       "itemsFound": 0
     }
