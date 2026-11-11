@@ -1,9 +1,33 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-10T21:56:05.425541+00:00",
-  "lastSuccessfulAt": "2026-11-10T21:56:05.425541+00:00",
+  "checkedAt": "2026-11-11T01:53:38.870024+00:00",
+  "lastSuccessfulAt": "2026-11-11T01:53:38.870024+00:00",
   "status": "ok",
   "items": [
+    {
+      "id": "8855297b7f0eb6ac",
+      "title": "Govt prepares Rp883 bln subsidy for Christmas, New Year travel period",
+      "url": "https://en.antaranews.com/news/441687/govt-prepares-rp883-bln-subsidy-for-christmas-new-year-travel-period",
+      "publishedAt": "2026-11-11T01:49:48+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-11T01:53:38.870024+00:00"
+    },
+    {
+      "id": "ee1d953eac86e165",
+      "title": "IDX intensifies global investor outreach amid reforms",
+      "url": "https://en.antaranews.com/news/441683/idx-intensifies-global-investor-outreach-amid-reforms",
+      "publishedAt": "2026-11-11T01:45:07+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-11T01:53:38.870024+00:00"
+    },
     {
       "id": "4991d6defc1fb19e",
       "title": "Cultural diversity key asset for Indonesian film industry: Ministry",
@@ -339,30 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
-    },
-    {
-      "id": "ca14063e28105ec0",
-      "title": "Govt seeks to sustain economic growth through Q4 stimulus measures",
-      "url": "https://en.antaranews.com/news/441075/govt-seeks-to-sustain-economic-growth-through-q4-stimulus-measures",
-      "publishedAt": "2026-11-08T07:01:08+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
-    },
-    {
-      "id": "b4cda13de8bd5bf9",
-      "title": "Indonesia expects 120 million travelers for year-end holidays",
-      "url": "https://en.antaranews.com/news/441059/indonesia-expects-120-million-travelers-for-year-end-holidays",
-      "publishedAt": "2026-11-08T06:28:18+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-08T09:26:45.055026+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-10T21:56:05.425541+00:00",
+      "checkedAt": "2026-11-11T01:53:38.870024+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-10T21:56:05.425541+00:00",
+      "checkedAt": "2026-11-11T01:53:38.870024+00:00",
       "ok": true,
       "itemsFound": 0
     }
