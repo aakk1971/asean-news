@@ -1,9 +1,69 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-12T12:57:58.706705+00:00",
-  "lastSuccessfulAt": "2026-11-12T12:57:58.706705+00:00",
+  "checkedAt": "2026-11-12T20:46:39.730402+00:00",
+  "lastSuccessfulAt": "2026-11-12T20:46:39.730402+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "d3188c088ef2dd12",
+      "title": "Germany urges RI to cut tariffs, expand investment in industry, energy",
+      "url": "https://en.antaranews.com/news/442259/germany-urges-ri-to-cut-tariffs-expand-investment-in-industry-energy",
+      "publishedAt": "2026-11-12T17:14:58+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-12T20:46:39.730402+00:00"
+    },
+    {
+      "id": "d97e2b1117c5494f",
+      "title": "Govt assures Indonesia's economic fundamentals remain resilient",
+      "url": "https://en.antaranews.com/news/442247/govt-assures-indonesias-economic-fundamentals-remain-resilient",
+      "publishedAt": "2026-11-12T16:40:41+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-12T20:46:39.730402+00:00"
+    },
+    {
+      "id": "0d0f2f9e4622c332",
+      "title": "Norway grants US$100 million for RI's success reducing deforestation",
+      "url": "https://en.antaranews.com/news/442227/norway-grants-us100-million-for-ris-success-reducing-deforestation",
+      "publishedAt": "2026-11-12T15:55:13+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-12T20:46:39.730402+00:00"
+    },
+    {
+      "id": "4914de4ca4d88998",
+      "title": "RI aims to complete China trade pact talks by early 2029: Hartarto",
+      "url": "https://en.antaranews.com/news/442223/ri-aims-to-complete-china-trade-pact-talks-by-early-2029-hartarto",
+      "publishedAt": "2026-11-12T15:28:42+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-12T20:46:39.730402+00:00"
+    },
+    {
+      "id": "f6bf7c264b229c87",
+      "title": "Kadin chief calls for wider trade corridors amid global volatility",
+      "url": "https://en.antaranews.com/news/442219/kadin-chief-calls-for-wider-trade-corridors-amid-global-volatility",
+      "publishedAt": "2026-11-12T15:28:06+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-12T20:46:39.730402+00:00"
+    },
     {
       "id": "98d0a0925ea980e5",
       "title": "Indonesia's eastern regions outpace national manufacturing growth",
@@ -303,66 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-11T09:16:17.915434+00:00"
-    },
-    {
-      "id": "9e7b41d61f77d8d5",
-      "title": "Indonesia trains KDMP treasurers to strengthen cooperative management",
-      "url": "https://en.antaranews.com/news/441707/indonesia-trains-kdmp-treasurers-to-strengthen-cooperative-management",
-      "publishedAt": "2026-11-11T04:47:24+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-11T09:16:17.915434+00:00"
-    },
-    {
-      "id": "bb765d0980cd8228",
-      "title": "Indonesia launches CarbonNex to boost carbon cooperation at COP31",
-      "url": "https://en.antaranews.com/news/441703/indonesia-launches-carbonnex-to-boost-carbon-cooperation-at-cop31",
-      "publishedAt": "2026-11-11T04:00:29+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-11T09:16:17.915434+00:00"
-    },
-    {
-      "id": "dad8dee24425ce46",
-      "title": "Indonesia targets full waste management by 2029, ends open dumping",
-      "url": "https://en.antaranews.com/news/441699/indonesia-targets-full-waste-management-by-2029-ends-open-dumping",
-      "publishedAt": "2026-11-11T02:06:51+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-11T09:16:17.915434+00:00"
-    },
-    {
-      "id": "8855297b7f0eb6ac",
-      "title": "Govt prepares Rp883 bln subsidy for Christmas, New Year travel period",
-      "url": "https://en.antaranews.com/news/441687/govt-prepares-rp883-bln-subsidy-for-christmas-new-year-travel-period",
-      "publishedAt": "2026-11-11T01:49:48+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-11T01:53:38.870024+00:00"
-    },
-    {
-      "id": "ee1d953eac86e165",
-      "title": "IDX intensifies global investor outreach amid reforms",
-      "url": "https://en.antaranews.com/news/441683/idx-intensifies-global-investor-outreach-amid-reforms",
-      "publishedAt": "2026-11-11T01:45:07+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-11T01:53:38.870024+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-12T12:57:58.706705+00:00",
+      "checkedAt": "2026-11-12T20:46:39.730402+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-12T12:57:58.706705+00:00",
+      "checkedAt": "2026-11-12T20:46:39.730402+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
