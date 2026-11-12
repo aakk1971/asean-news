@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-11T23:31:57.631517+00:00",
-  "lastSuccessfulAt": "2026-11-11T23:31:57.631517+00:00",
+  "checkedAt": "2026-11-12T04:09:27.940341+00:00",
+  "lastSuccessfulAt": "2026-11-12T04:09:27.940341+00:00",
   "status": "partial",
   "items": [
     {
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-11T23:31:57.631517+00:00",
+      "checkedAt": "2026-11-12T04:09:27.940341+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-11T23:31:57.631517+00:00",
+      "checkedAt": "2026-11-12T04:09:27.940341+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
