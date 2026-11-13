@@ -1,9 +1,21 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T16:47:51.473964+00:00",
-  "lastSuccessfulAt": "2026-11-13T16:47:51.473964+00:00",
+  "checkedAt": "2026-11-13T22:15:34.830494+00:00",
+  "lastSuccessfulAt": "2026-11-13T22:15:34.830494+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "d939e86dd8247b1f",
+      "title": "Airlangga upbeat about Indonesia's 2027 economic outlook",
+      "url": "https://en.antaranews.com/news/442519/airlangga-upbeat-about-indonesias-2027-economic-outlook",
+      "publishedAt": "2026-11-13T17:21:15+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-13T22:15:34.830494+00:00"
+    },
     {
       "id": "99c6e64de36f4544",
       "title": "Muhaimin calls for economic reform to strengthen small businesses",
@@ -351,18 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-12T12:57:58.706705+00:00"
-    },
-    {
-      "id": "2f79a91a3b67633b",
-      "title": "Indonesia launches provincial forestry carbon trading at COP31",
-      "url": "https://en.antaranews.com/news/442123/indonesia-launches-provincial-forestry-carbon-trading-at-cop31",
-      "publishedAt": "2026-11-12T10:37:45+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-12T12:57:58.706705+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-13T16:47:51.473964+00:00",
+      "checkedAt": "2026-11-13T22:15:34.830494+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-13T16:47:51.473964+00:00",
+      "checkedAt": "2026-11-13T22:15:34.830494+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
