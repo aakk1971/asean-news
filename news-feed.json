@@ -1,9 +1,69 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T01:31:55.279441+00:00",
-  "lastSuccessfulAt": "2026-11-13T01:31:55.279441+00:00",
-  "status": "ok",
+  "checkedAt": "2026-11-13T08:43:36.300116+00:00",
+  "lastSuccessfulAt": "2026-11-13T08:43:36.300116+00:00",
+  "status": "partial",
   "items": [
+    {
+      "id": "177c29c7d6e98426",
+      "title": "Government studies raw material sufficiency for B50 in 2027",
+      "url": "https://en.antaranews.com/news/442359/government-studies-raw-material-sufficiency-for-b50-in-2027",
+      "publishedAt": "2026-11-13T08:01:06+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
+    },
+    {
+      "id": "9188c99d81fd2ffe",
+      "title": "Antam gold falls Rp9,000 to Rp2.509 million per gram on Friday",
+      "url": "https://en.antaranews.com/news/442327/antam-gold-falls-rp9000-to-rp2509-million-per-gram-on-friday",
+      "publishedAt": "2026-11-13T06:12:21+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
+    },
+    {
+      "id": "407e633c81be9bd3",
+      "title": "IHSG opens higher on Friday, up 14.77 points to 5,265",
+      "url": "https://en.antaranews.com/news/442323/ihsg-opens-higher-on-friday-up-1477-points-to-5265",
+      "publishedAt": "2026-11-13T05:57:03+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
+    },
+    {
+      "id": "76d2563b25af334b",
+      "title": "Indonesia says October budget deficit of 1.47 percent of GDP on track",
+      "url": "https://en.antaranews.com/news/442315/indonesia-says-october-budget-deficit-of-147-percent-of-gdp-on-track",
+      "publishedAt": "2026-11-13T05:54:35+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
+    },
+    {
+      "id": "9ea46d19cb4fde95",
+      "title": "Indonesia presses developed nations to meet climate finance targets",
+      "url": "https://en.antaranews.com/news/442283/indonesia-presses-developed-nations-to-meet-climate-finance-targets",
+      "publishedAt": "2026-11-13T02:57:52+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
+    },
     {
       "id": "d3188c088ef2dd12",
       "title": "Germany urges RI to cut tariffs, expand investment in industry, energy",
@@ -303,66 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-11T17:17:39.951477+00:00"
-    },
-    {
-      "id": "58a6ef689285f974",
-      "title": "State Budget buffers Indonesia from global economic shocks: KSSK",
-      "url": "https://en.antaranews.com/news/441819/state-budget-buffers-indonesia-from-global-economic-shocks-kssk",
-      "publishedAt": "2026-11-11T11:50:20+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-11T17:17:39.951477+00:00"
-    },
-    {
-      "id": "b4a5782bd84b3771",
-      "title": "Prabowo, Xi to discuss China-Indonesia CEPA at APEC Summit",
-      "url": "https://en.antaranews.com/news/441811/prabowo-xi-to-discuss-china-indonesia-cepa-at-apec-summit",
-      "publishedAt": "2026-11-11T11:38:38+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-11T17:17:39.951477+00:00"
-    },
-    {
-      "id": "700606105d1d2de1",
-      "title": "Indonesia sees opportunity to sustain growth as global oil prices ease",
-      "url": "https://en.antaranews.com/news/441775/indonesia-sees-opportunity-to-sustain-growth-as-global-oil-prices-ease",
-      "publishedAt": "2026-11-11T09:45:36+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-11T17:17:39.951477+00:00"
-    },
-    {
-      "id": "970abf526dd60449",
-      "title": "Indonesia, Malaysia plan joint halal council to drive ASEAN ecosystem",
-      "url": "https://en.antaranews.com/news/441763/indonesia-malaysia-plan-joint-halal-council-to-drive-asean-ecosystem",
-      "publishedAt": "2026-11-11T09:32:51+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-11T17:17:39.951477+00:00"
-    },
-    {
-      "id": "ec659d1208d4f51c",
-      "title": "Indonesia drives tourism as new source of regional economic growth",
-      "url": "https://en.antaranews.com/news/441731/indonesia-drives-tourism-as-new-source-of-regional-economic-growth",
-      "publishedAt": "2026-11-11T06:21:39+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-11T09:16:17.915434+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-13T01:31:55.279441+00:00",
+      "checkedAt": "2026-11-13T08:43:36.300116+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,9 +380,9 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-13T01:31:55.279441+00:00",
-      "ok": true,
-      "itemsFound": 0
+      "checkedAt": "2026-11-13T08:43:36.300116+00:00",
+      "ok": false,
+      "error": "ParseError: no element found: line 1, column 0"
     }
   ],
   "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
