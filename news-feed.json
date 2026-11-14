@@ -1,9 +1,93 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-14T09:22:50.379354+00:00",
-  "lastSuccessfulAt": "2026-11-14T09:22:50.379354+00:00",
+  "checkedAt": "2026-11-14T16:04:19.122183+00:00",
+  "lastSuccessfulAt": "2026-11-14T16:04:19.122183+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "d948d60fe93c4e61",
+      "title": "Indonesia grants social forestry rights to 309 households in Sulawesi",
+      "url": "https://en.antaranews.com/news/442699/indonesia-grants-social-forestry-rights-to-309-households-in-sulawesi",
+      "publishedAt": "2026-11-14T14:00:43+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
+    },
+    {
+      "id": "dbf9fc6be7866d6d",
+      "title": "Indonesia stresses tailored approach for digital economy regulations",
+      "url": "https://en.antaranews.com/news/442659/indonesia-stresses-tailored-approach-for-digital-economy-regulations",
+      "publishedAt": "2026-11-14T10:35:05+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
+    },
+    {
+      "id": "d7a52ace7ca0ef5e",
+      "title": "Germany ready to share technology, boost renewable energy investment",
+      "url": "https://en.antaranews.com/news/442647/germany-ready-to-share-technology-boost-renewable-energy-investment",
+      "publishedAt": "2026-11-14T10:19:37+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
+    },
+    {
+      "id": "15bffa01f89e5b6b",
+      "title": "Indonesia to ramp up promotion of Bojonegoro's new Global Geopark",
+      "url": "https://en.antaranews.com/news/442631/indonesia-to-ramp-up-promotion-of-bojonegoros-new-global-geopark",
+      "publishedAt": "2026-11-14T10:03:02+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
+    },
+    {
+      "id": "c28f6da3ce2e1826",
+      "title": "Petrokimia Gresik extends decarbonization from plant to farm",
+      "url": "https://en.antaranews.com/news/442611/petrokimia-gresik-extends-decarbonization-from-plant-to-farm",
+      "publishedAt": "2026-11-14T09:46:07+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
+    },
+    {
+      "id": "588b47480694a36b",
+      "title": "RI pushes for concrete ASEAN digital economy agreement rollout",
+      "url": "https://en.antaranews.com/news/442607/ri-pushes-for-concrete-asean-digital-economy-agreement-rollout",
+      "publishedAt": "2026-11-14T09:46:04+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
+    },
+    {
+      "id": "809ab28f8dcb87be",
+      "title": "Indonesia and Philippines boost central bank cooperation",
+      "url": "https://en.antaranews.com/news/442595/indonesia-and-philippines-boost-central-bank-cooperation",
+      "publishedAt": "2026-11-14T09:30:54+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
+    },
     {
       "id": "3e4211a26f63d6d8",
       "title": "Indonesia's leather, footwear exports reach US$7.22 billion",
@@ -279,90 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
-    },
-    {
-      "id": "d3188c088ef2dd12",
-      "title": "Germany urges RI to cut tariffs, expand investment in industry, energy",
-      "url": "https://en.antaranews.com/news/442259/germany-urges-ri-to-cut-tariffs-expand-investment-in-industry-energy",
-      "publishedAt": "2026-11-12T17:14:58+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-12T20:46:39.730402+00:00"
-    },
-    {
-      "id": "d97e2b1117c5494f",
-      "title": "Govt assures Indonesia's economic fundamentals remain resilient",
-      "url": "https://en.antaranews.com/news/442247/govt-assures-indonesias-economic-fundamentals-remain-resilient",
-      "publishedAt": "2026-11-12T16:40:41+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-12T20:46:39.730402+00:00"
-    },
-    {
-      "id": "0d0f2f9e4622c332",
-      "title": "Norway grants US$100 million for RI's success reducing deforestation",
-      "url": "https://en.antaranews.com/news/442227/norway-grants-us100-million-for-ris-success-reducing-deforestation",
-      "publishedAt": "2026-11-12T15:55:13+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-12T20:46:39.730402+00:00"
-    },
-    {
-      "id": "4914de4ca4d88998",
-      "title": "RI aims to complete China trade pact talks by early 2029: Hartarto",
-      "url": "https://en.antaranews.com/news/442223/ri-aims-to-complete-china-trade-pact-talks-by-early-2029-hartarto",
-      "publishedAt": "2026-11-12T15:28:42+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-12T20:46:39.730402+00:00"
-    },
-    {
-      "id": "f6bf7c264b229c87",
-      "title": "Kadin chief calls for wider trade corridors amid global volatility",
-      "url": "https://en.antaranews.com/news/442219/kadin-chief-calls-for-wider-trade-corridors-amid-global-volatility",
-      "publishedAt": "2026-11-12T15:28:06+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-12T20:46:39.730402+00:00"
-    },
-    {
-      "id": "98d0a0925ea980e5",
-      "title": "Indonesia's eastern regions outpace national manufacturing growth",
-      "url": "https://en.antaranews.com/news/442187/indonesias-eastern-regions-outpace-national-manufacturing-growth",
-      "publishedAt": "2026-11-12T12:07:10+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-12T12:57:58.706705+00:00"
-    },
-    {
-      "id": "8dc31f75d1a4412a",
-      "title": "Tax authority maintains focus on revenue amid political turmoil",
-      "url": "https://en.antaranews.com/news/442183/tax-authority-maintains-focus-on-revenue-amid-political-turmoil",
-      "publishedAt": "2026-11-12T12:00:44+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-12T12:57:58.706705+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-14T09:22:50.379354+00:00",
+      "checkedAt": "2026-11-14T16:04:19.122183+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-14T09:22:50.379354+00:00",
+      "checkedAt": "2026-11-14T16:04:19.122183+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
