@@ -1,9 +1,33 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-14T02:30:50.971304+00:00",
-  "lastSuccessfulAt": "2026-11-14T02:30:50.971304+00:00",
+  "checkedAt": "2026-11-14T09:22:50.379354+00:00",
+  "lastSuccessfulAt": "2026-11-14T09:22:50.379354+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "3e4211a26f63d6d8",
+      "title": "Indonesia's leather, footwear exports reach US$7.22 billion",
+      "url": "https://en.antaranews.com/news/442571/indonesias-leather-footwear-exports-reach-us722-billion",
+      "publishedAt": "2026-11-14T06:44:43+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-14T09:22:50.379354+00:00"
+    },
+    {
+      "id": "0b3f60b143e0dc18",
+      "title": "Germany sees Indonesia as key partner in economic resilience",
+      "url": "https://en.antaranews.com/news/442559/germany-sees-indonesia-as-key-partner-in-economic-resilience",
+      "publishedAt": "2026-11-14T05:45:57+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-14T09:22:50.379354+00:00"
+    },
     {
       "id": "d939e86dd8247b1f",
       "title": "Airlangga upbeat about Indonesia's 2027 economic outlook",
@@ -339,30 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-12T12:57:58.706705+00:00"
-    },
-    {
-      "id": "af236be504032130",
-      "title": "Indonesia seeks faster capital market reforms to protect investors",
-      "url": "https://en.antaranews.com/news/442171/indonesia-seeks-faster-capital-market-reforms-to-protect-investors",
-      "publishedAt": "2026-11-12T11:49:49+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-12T12:57:58.706705+00:00"
-    },
-    {
-      "id": "60ff64c31e154178",
-      "title": "Bali set to become Indonesia's global creative and digital hub",
-      "url": "https://en.antaranews.com/news/442159/bali-set-to-become-indonesias-global-creative-and-digital-hub",
-      "publishedAt": "2026-11-12T11:30:04+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-12T12:57:58.706705+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-14T02:30:50.971304+00:00",
+      "checkedAt": "2026-11-14T09:22:50.379354+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-14T02:30:50.971304+00:00",
+      "checkedAt": "2026-11-14T09:22:50.379354+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
