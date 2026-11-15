@@ -1,9 +1,45 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T07:07:51.895542+00:00",
-  "lastSuccessfulAt": "2026-11-15T07:07:51.895542+00:00",
+  "checkedAt": "2026-11-15T14:51:48.580977+00:00",
+  "lastSuccessfulAt": "2026-11-15T14:51:48.580977+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "d4b6f789ba80f900",
+      "title": "ASEAN digital economy could reach US$2 trillion through DEFA: Prabowo",
+      "url": "https://en.antaranews.com/news/442811/asean-digital-economy-could-reach-us2-trillion-through-defa-prabowo",
+      "publishedAt": "2026-11-15T14:49:08+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-15T14:51:48.580977+00:00"
+    },
+    {
+      "id": "030239029ea5a34b",
+      "title": "Indonesia pilots interest-free financing program for MSMEs",
+      "url": "https://en.antaranews.com/news/442795/indonesia-pilots-interest-free-financing-program-for-msmes",
+      "publishedAt": "2026-11-15T11:01:12+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-15T14:51:48.580977+00:00"
+    },
+    {
+      "id": "8103cd12fbbf815a",
+      "title": "Indonesia-Canada CEPA to remove duties on 3,100 tariff lines Dec. 1",
+      "url": "https://en.antaranews.com/news/442775/indonesia-canada-cepa-to-remove-duties-on-3100-tariff-lines-dec-1",
+      "publishedAt": "2026-11-15T07:34:16+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-15T14:51:48.580977+00:00"
+    },
     {
       "id": "011573ccdf721613",
       "title": "Borobudur Marathon boosts sports tourism, local economy: Governor",
@@ -327,42 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
-    },
-    {
-      "id": "9188c99d81fd2ffe",
-      "title": "Antam gold falls Rp9,000 to Rp2.509 million per gram on Friday",
-      "url": "https://en.antaranews.com/news/442327/antam-gold-falls-rp9000-to-rp2509-million-per-gram-on-friday",
-      "publishedAt": "2026-11-13T06:12:21+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
-    },
-    {
-      "id": "407e633c81be9bd3",
-      "title": "IHSG opens higher on Friday, up 14.77 points to 5,265",
-      "url": "https://en.antaranews.com/news/442323/ihsg-opens-higher-on-friday-up-1477-points-to-5265",
-      "publishedAt": "2026-11-13T05:57:03+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
-    },
-    {
-      "id": "76d2563b25af334b",
-      "title": "Indonesia says October budget deficit of 1.47 percent of GDP on track",
-      "url": "https://en.antaranews.com/news/442315/indonesia-says-october-budget-deficit-of-147-percent-of-gdp-on-track",
-      "publishedAt": "2026-11-13T05:54:35+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-15T07:07:51.895542+00:00",
+      "checkedAt": "2026-11-15T14:51:48.580977+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-15T07:07:51.895542+00:00",
+      "checkedAt": "2026-11-15T14:51:48.580977+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
