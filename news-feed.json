@@ -1,9 +1,21 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T00:26:00.783112+00:00",
-  "lastSuccessfulAt": "2026-11-15T00:26:00.783112+00:00",
+  "checkedAt": "2026-11-15T07:07:51.895542+00:00",
+  "lastSuccessfulAt": "2026-11-15T07:07:51.895542+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "011573ccdf721613",
+      "title": "Borobudur Marathon boosts sports tourism, local economy: Governor",
+      "url": "https://en.antaranews.com/news/442763/borobudur-marathon-boosts-sports-tourism-local-economy-governor",
+      "publishedAt": "2026-11-15T06:34:47+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-15T07:07:51.895542+00:00"
+    },
     {
       "id": "d948d60fe93c4e61",
       "title": "Indonesia grants social forestry rights to 309 households in Sulawesi",
@@ -351,18 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
-    },
-    {
-      "id": "9ea46d19cb4fde95",
-      "title": "Indonesia presses developed nations to meet climate finance targets",
-      "url": "https://en.antaranews.com/news/442283/indonesia-presses-developed-nations-to-meet-climate-finance-targets",
-      "publishedAt": "2026-11-13T02:57:52+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-15T00:26:00.783112+00:00",
+      "checkedAt": "2026-11-15T07:07:51.895542+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-15T00:26:00.783112+00:00",
+      "checkedAt": "2026-11-15T07:07:51.895542+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
