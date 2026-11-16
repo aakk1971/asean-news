@@ -1,9 +1,57 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-16T06:15:35.388519+00:00",
-  "lastSuccessfulAt": "2026-11-16T06:15:35.388519+00:00",
+  "checkedAt": "2026-11-16T16:07:45.808536+00:00",
+  "lastSuccessfulAt": "2026-11-16T16:07:45.808536+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "2af35954d9c47e2b",
+      "title": "OJK projects positive banking industry performance through 2027",
+      "url": "https://en.antaranews.com/news/443075/ojk-projects-positive-banking-industry-performance-through-2027",
+      "publishedAt": "2026-11-16T14:01:11+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-16T16:07:45.808536+00:00"
+    },
+    {
+      "id": "a8b8248e89446fe9",
+      "title": "Prabowo urges ASEAN-China economic integration to benefit MSMEs",
+      "url": "https://en.antaranews.com/news/443011/prabowo-urges-asean-china-economic-integration-to-benefit-msmes",
+      "publishedAt": "2026-11-16T09:41:18+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-16T16:07:45.808536+00:00"
+    },
+    {
+      "id": "31be62f718cd4e07",
+      "title": "Indonesia, EU to sign landmark trade pact in Brussels on Nov 21",
+      "url": "https://en.antaranews.com/news/442991/indonesia-eu-to-sign-landmark-trade-pact-in-brussels-on-nov-21",
+      "publishedAt": "2026-11-16T09:08:54+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-16T16:07:45.808536+00:00"
+    },
+    {
+      "id": "ec7fb0d62948c30d",
+      "title": "KAI Jakarta: 142,000 tickets sold for christmas, new year period",
+      "url": "https://en.antaranews.com/news/442983/kai-jakarta-142000-tickets-sold-for-christmas-new-year-period",
+      "publishedAt": "2026-11-16T08:51:44+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-16T16:07:45.808536+00:00"
+    },
     {
       "id": "ea029a86ac4be0af",
       "title": "Batam's international boat race boosts tourism and local economy",
@@ -315,54 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "2a35bf7f34c36650",
-      "title": "Indonesia prepares palm oil traceability system ahead of EU Rules",
-      "url": "https://en.antaranews.com/news/442399/indonesia-prepares-palm-oil-traceability-system-ahead-of-eu-rules",
-      "publishedAt": "2026-11-13T10:24:10+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "e07cf543d4e6baa6",
-      "title": "Indonesia joins Forest and Climate Leaders' Partnership at COP31",
-      "url": "https://en.antaranews.com/news/442395/indonesia-joins-forest-and-climate-leaders-partnership-at-cop31",
-      "publishedAt": "2026-11-13T09:43:22+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "b352809cc0a7339b",
-      "title": "Indonesia seeks stronger BYD commitment to local content, jobs",
-      "url": "https://en.antaranews.com/news/442379/indonesia-seeks-stronger-byd-commitment-to-local-content-jobs",
-      "publishedAt": "2026-11-13T09:28:04+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "7a86f305cd3c6524",
-      "title": "Finance ministry says state budget deficit is planned, not a loss",
-      "url": "https://en.antaranews.com/news/442375/finance-ministry-says-state-budget-deficit-is-planned-not-a-loss",
-      "publishedAt": "2026-11-13T09:12:21+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-16T06:15:35.388519+00:00",
+      "checkedAt": "2026-11-16T16:07:45.808536+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-16T06:15:35.388519+00:00",
+      "checkedAt": "2026-11-16T16:07:45.808536+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
