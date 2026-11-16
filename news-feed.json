@@ -1,9 +1,21 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T23:57:18.540164+00:00",
-  "lastSuccessfulAt": "2026-11-15T23:57:18.540164+00:00",
+  "checkedAt": "2026-11-16T06:15:35.388519+00:00",
+  "lastSuccessfulAt": "2026-11-16T06:15:35.388519+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "ea029a86ac4be0af",
+      "title": "Batam's international boat race boosts tourism and local economy",
+      "url": "https://en.antaranews.com/news/442879/batams-international-boat-race-boosts-tourism-and-local-economy",
+      "publishedAt": "2026-11-16T04:28:07+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-16T06:15:35.388519+00:00"
+    },
     {
       "id": "d4b6f789ba80f900",
       "title": "ASEAN digital economy could reach US$2 trillion through DEFA: Prabowo",
@@ -351,18 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "177c29c7d6e98426",
-      "title": "Government studies raw material sufficiency for B50 in 2027",
-      "url": "https://en.antaranews.com/news/442359/government-studies-raw-material-sufficiency-for-b50-in-2027",
-      "publishedAt": "2026-11-13T08:01:06+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T08:43:36.300116+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-15T23:57:18.540164+00:00",
+      "checkedAt": "2026-11-16T06:15:35.388519+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-15T23:57:18.540164+00:00",
+      "checkedAt": "2026-11-16T06:15:35.388519+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
