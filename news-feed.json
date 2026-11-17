@@ -1,9 +1,105 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T08:12:12.549007+00:00",
-  "lastSuccessfulAt": "2026-11-17T08:12:12.549007+00:00",
-  "status": "partial",
+  "checkedAt": "2026-11-17T17:42:15.957446+00:00",
+  "lastSuccessfulAt": "2026-11-17T17:42:15.957446+00:00",
+  "status": "ok",
   "items": [
+    {
+      "id": "f07baf35d8aba36c",
+      "title": "Indonesia pushes to break free from food import reliance",
+      "url": "https://en.antaranews.com/news/443335/indonesia-pushes-to-break-free-from-food-import-reliance",
+      "publishedAt": "2026-11-17T15:27:13+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
+    },
+    {
+      "id": "3a0143aefd5420a6",
+      "title": "Indonesia speeds up clean energy projects via AZEC 2.0",
+      "url": "https://en.antaranews.com/news/443315/indonesia-speeds-up-clean-energy-projects-via-azec-20",
+      "publishedAt": "2026-11-17T14:10:18+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
+    },
+    {
+      "id": "4d0dadab7187b3a5",
+      "title": "PLN Indonesia Power starts construction of 4.5-MW solar plant in Bali",
+      "url": "https://en.antaranews.com/news/443279/pln-indonesia-power-starts-construction-of-45-mw-solar-plant-in-bali",
+      "publishedAt": "2026-11-17T11:42:33+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
+    },
+    {
+      "id": "f6d7eb7103dd3223",
+      "title": "Kadin uses APEC CEO Summit to promote Indonesia to Asia-Pacific",
+      "url": "https://en.antaranews.com/news/443275/kadin-uses-apec-ceo-summit-to-promote-indonesia-to-asia-pacific",
+      "publishedAt": "2026-11-17T11:32:05+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
+    },
+    {
+      "id": "af3934090ea3ce6b",
+      "title": "Prabowo urges MSMEs involvement in ASEAN-Japan economic cooperation",
+      "url": "https://en.antaranews.com/news/443243/prabowo-urges-msmes-involvement-in-asean-japan-economic-cooperation",
+      "publishedAt": "2026-11-17T10:13:39+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
+    },
+    {
+      "id": "de35a689cb619012",
+      "title": "Villages ministry urges digital promotion for tourism villages",
+      "url": "https://en.antaranews.com/news/443239/villages-ministry-urges-digital-promotion-for-tourism-villages",
+      "publishedAt": "2026-11-17T09:56:59+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
+    },
+    {
+      "id": "b06130beb7decfab",
+      "title": "ASEAN-Japan Summit: Prabowo introduces RI's 100 GW solar power project",
+      "url": "https://en.antaranews.com/news/443231/asean-japan-summit-prabowo-introduces-ris-100-gw-solar-power-project",
+      "publishedAt": "2026-11-17T09:51:21+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
+    },
+    {
+      "id": "531c0dd6ef2e9f99",
+      "title": "OJK pushes banks to finance green building transformation",
+      "url": "https://en.antaranews.com/news/443227/ojk-pushes-banks-to-finance-green-building-transformation",
+      "publishedAt": "2026-11-17T09:40:47+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
+    },
     {
       "id": "b9bcad8fd416442c",
       "title": "Indonesia unveils YouTube festival to tap rural creative economy",
@@ -267,102 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
-    },
-    {
-      "id": "c28f6da3ce2e1826",
-      "title": "Petrokimia Gresik extends decarbonization from plant to farm",
-      "url": "https://en.antaranews.com/news/442611/petrokimia-gresik-extends-decarbonization-from-plant-to-farm",
-      "publishedAt": "2026-11-14T09:46:07+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
-    },
-    {
-      "id": "588b47480694a36b",
-      "title": "RI pushes for concrete ASEAN digital economy agreement rollout",
-      "url": "https://en.antaranews.com/news/442607/ri-pushes-for-concrete-asean-digital-economy-agreement-rollout",
-      "publishedAt": "2026-11-14T09:46:04+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
-    },
-    {
-      "id": "809ab28f8dcb87be",
-      "title": "Indonesia and Philippines boost central bank cooperation",
-      "url": "https://en.antaranews.com/news/442595/indonesia-and-philippines-boost-central-bank-cooperation",
-      "publishedAt": "2026-11-14T09:30:54+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
-    },
-    {
-      "id": "3e4211a26f63d6d8",
-      "title": "Indonesia's leather, footwear exports reach US$7.22 billion",
-      "url": "https://en.antaranews.com/news/442571/indonesias-leather-footwear-exports-reach-us722-billion",
-      "publishedAt": "2026-11-14T06:44:43+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-14T09:22:50.379354+00:00"
-    },
-    {
-      "id": "0b3f60b143e0dc18",
-      "title": "Germany sees Indonesia as key partner in economic resilience",
-      "url": "https://en.antaranews.com/news/442559/germany-sees-indonesia-as-key-partner-in-economic-resilience",
-      "publishedAt": "2026-11-14T05:45:57+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-14T09:22:50.379354+00:00"
-    },
-    {
-      "id": "d939e86dd8247b1f",
-      "title": "Airlangga upbeat about Indonesia's 2027 economic outlook",
-      "url": "https://en.antaranews.com/news/442519/airlangga-upbeat-about-indonesias-2027-economic-outlook",
-      "publishedAt": "2026-11-13T17:21:15+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T22:15:34.830494+00:00"
-    },
-    {
-      "id": "99c6e64de36f4544",
-      "title": "Muhaimin calls for economic reform to strengthen small businesses",
-      "url": "https://en.antaranews.com/news/442511/muhaimin-calls-for-economic-reform-to-strengthen-small-businesses",
-      "publishedAt": "2026-11-13T15:57:18+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "639d0a41b9a51882",
-      "title": "Indonesia targets December completion of Whoosh share transfer review",
-      "url": "https://en.antaranews.com/news/442503/indonesia-targets-december-completion-of-whoosh-share-transfer-review",
-      "publishedAt": "2026-11-13T15:26:33+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-17T08:12:12.549007+00:00",
+      "checkedAt": "2026-11-17T17:42:15.957446+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,9 +380,9 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-17T08:12:12.549007+00:00",
-      "ok": false,
-      "error": "ParseError: no element found: line 1, column 0"
+      "checkedAt": "2026-11-17T17:42:15.957446+00:00",
+      "ok": true,
+      "itemsFound": 0
     }
   ],
   "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
