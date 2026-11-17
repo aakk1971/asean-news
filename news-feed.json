@@ -1,9 +1,81 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-16T16:07:45.808536+00:00",
-  "lastSuccessfulAt": "2026-11-16T16:07:45.808536+00:00",
+  "checkedAt": "2026-11-17T00:19:20.905484+00:00",
+  "lastSuccessfulAt": "2026-11-17T00:19:20.905484+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "38a835c6283882cc",
+      "title": "Indonesia bolsters food system to navigate climate change threats",
+      "url": "https://en.antaranews.com/news/443135/indonesia-bolsters-food-system-to-navigate-climate-change-threats",
+      "publishedAt": "2026-11-16T19:21:03+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T00:19:20.905484+00:00"
+    },
+    {
+      "id": "20088606ef82d628",
+      "title": "PERURI unveils e-passport chip prototype developed with ITB",
+      "url": "https://en.antaranews.com/news/443131/peruriunveils-e-passport-chip-prototype-developed-with-itb",
+      "publishedAt": "2026-11-16T19:11:29+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T00:19:20.905484+00:00"
+    },
+    {
+      "id": "b2f2e39bb2dd86d3",
+      "title": "ASEAN agrees to establish creative industries center of excellence",
+      "url": "https://en.antaranews.com/news/443127/asean-agrees-to-establish-creative-industries-center-of-excellence",
+      "publishedAt": "2026-11-16T18:42:29+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T00:19:20.905484+00:00"
+    },
+    {
+      "id": "6bdaff547f5cbb85",
+      "title": "Indonesia backs public-private synergy as key to ASEAN's economy",
+      "url": "https://en.antaranews.com/news/443123/indonesia-backs-public-private-synergy-as-key-to-aseans-economy",
+      "publishedAt": "2026-11-16T18:38:34+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T00:19:20.905484+00:00"
+    },
+    {
+      "id": "f0f3877af5ccec8f",
+      "title": "Indonesia eyes expanded export access at upcoming APEC Summit",
+      "url": "https://en.antaranews.com/news/443111/indonesia-eyes-expanded-export-access-at-upcoming-apec-summit",
+      "publishedAt": "2026-11-16T18:20:12+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T00:19:20.905484+00:00"
+    },
+    {
+      "id": "cee718c634c1caca",
+      "title": "Prabowo highlights future industries in ASEAN-Australia ties",
+      "url": "https://en.antaranews.com/news/443103/prabowo-highlights-future-industries-in-asean-australia-ties",
+      "publishedAt": "2026-11-16T18:13:42+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T00:19:20.905484+00:00"
+    },
     {
       "id": "2af35954d9c47e2b",
       "title": "OJK projects positive banking industry performance through 2027",
@@ -291,78 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "3f3a907989208e0f",
-      "title": "Indonesia targets global exposure through BTS concert in Jakarta",
-      "url": "https://en.antaranews.com/news/442471/indonesia-targets-global-exposure-through-bts-concert-in-jakarta",
-      "publishedAt": "2026-11-13T12:59:37+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "436ed5ed8a9c3d61",
-      "title": "Indonesia's US$1.4 billion Panda Bond sale oversubscribed 1.73 times",
-      "url": "https://en.antaranews.com/news/442435/indonesias-us14-billion-panda-bond-sale-oversubscribed-173-times",
-      "publishedAt": "2026-11-13T11:54:09+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "7a40037ee8ed03db",
-      "title": "Indonesia targets 5.45 percent growth on robust economic fundamentals",
-      "url": "https://en.antaranews.com/news/442419/indonesia-targets-545-percent-growth-on-robust-economic-fundamentals",
-      "publishedAt": "2026-11-13T11:30:00+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "861d13ca42fd9b55",
-      "title": "Indonesia seeks French investment, training support for tourism growth",
-      "url": "https://en.antaranews.com/news/442415/indonesia-seeks-french-investment-training-support-for-tourism-growth",
-      "publishedAt": "2026-11-13T11:28:50+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "0c01858d36ec3f09",
-      "title": "Indonesia boosts global investment synergy at diplomatic forum",
-      "url": "https://en.antaranews.com/news/442411/indonesia-boosts-global-investment-synergy-at-diplomatic-forum",
-      "publishedAt": "2026-11-13T11:27:29+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "44b61eb48cd24b1c",
-      "title": "Indonesia defends market credibility amid MSCI reclassification",
-      "url": "https://en.antaranews.com/news/442407/indonesia-defends-market-credibility-amid-msci-reclassification",
-      "publishedAt": "2026-11-13T10:55:47+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-16T16:07:45.808536+00:00",
+      "checkedAt": "2026-11-17T00:19:20.905484+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-16T16:07:45.808536+00:00",
+      "checkedAt": "2026-11-17T00:19:20.905484+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
