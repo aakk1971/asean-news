@@ -1,9 +1,45 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T00:19:20.905484+00:00",
-  "lastSuccessfulAt": "2026-11-17T00:19:20.905484+00:00",
+  "checkedAt": "2026-11-17T08:12:12.549007+00:00",
+  "lastSuccessfulAt": "2026-11-17T08:12:12.549007+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "b9bcad8fd416442c",
+      "title": "Indonesia unveils YouTube festival to tap rural creative economy",
+      "url": "https://en.antaranews.com/news/443175/indonesia-unveils-youtube-festival-to-tap-rural-creative-economy",
+      "publishedAt": "2026-11-17T06:42:29+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T08:12:12.549007+00:00"
+    },
+    {
+      "id": "d463f3c729ad4f09",
+      "title": "Economic growth must start at grassroots, not 'trickle down': Minister",
+      "url": "https://en.antaranews.com/news/443171/economic-growth-must-start-at-grassroots-not-trickle-down-minister",
+      "publishedAt": "2026-11-17T06:29:17+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T08:12:12.549007+00:00"
+    },
+    {
+      "id": "bd789c1129cd5ee5",
+      "title": "Indonesia sees US$472.6 billion climate funding need: Deputy Minister",
+      "url": "https://en.antaranews.com/news/443167/indonesia-sees-us4726-billion-climate-funding-need-deputy-minister",
+      "publishedAt": "2026-11-17T06:27:15+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-17T08:12:12.549007+00:00"
+    },
     {
       "id": "38a835c6283882cc",
       "title": "Indonesia bolsters food system to navigate climate change threats",
@@ -327,42 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "7ff44c964a2220f9",
-      "title": "Indonesian govt extends halal certification deadline to October 2028",
-      "url": "https://en.antaranews.com/news/442499/indonesian-govt-extends-halalcertification-deadline-to-october-2028",
-      "publishedAt": "2026-11-13T15:03:14+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "4ec3e6b05d2e5039",
-      "title": "Govt assures BYD's local hiring share is fair",
-      "url": "https://en.antaranews.com/news/442495/govt-assures-byds-local-hiring-share-is-fair",
-      "publishedAt": "2026-11-13T14:53:30+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
-    },
-    {
-      "id": "bac683b0c6102ec5",
-      "title": "Indonesia to sign ASEAN digital economy pact on Nov. 14 in Manila",
-      "url": "https://en.antaranews.com/news/442483/indonesia-to-sign-asean-digital-economy-pact-on-nov-14-in-manila",
-      "publishedAt": "2026-11-13T13:22:28+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-13T16:47:51.473964+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-17T00:19:20.905484+00:00",
+      "checkedAt": "2026-11-17T08:12:12.549007+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-17T00:19:20.905484+00:00",
+      "checkedAt": "2026-11-17T08:12:12.549007+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
