@@ -1,9 +1,33 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-18T00:02:22.456617+00:00",
-  "lastSuccessfulAt": "2026-11-18T00:02:22.456617+00:00",
+  "checkedAt": "2026-11-18T07:14:42.585831+00:00",
+  "lastSuccessfulAt": "2026-11-18T07:14:42.585831+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "a4be857e2ea63c7c",
+      "title": "Indonesia demonstrates effectiveness of APEC cooperation: Kadin",
+      "url": "https://en.antaranews.com/news/443411/indonesia-demonstrates-effectiveness-of-apec-cooperation-kadin",
+      "publishedAt": "2026-11-18T07:10:31+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-18T07:14:42.585831+00:00"
+    },
+    {
+      "id": "c123188017b7e46d",
+      "title": "Indonesia eyes UK trade deal after sealing European Union partnership",
+      "url": "https://en.antaranews.com/news/443407/indonesia-eyes-uk-trade-deal-after-sealing-european-union-partnership",
+      "publishedAt": "2026-11-18T06:59:24+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-18T07:14:42.585831+00:00"
+    },
     {
       "id": "f07baf35d8aba36c",
       "title": "Indonesia pushes to break free from food import reliance",
@@ -339,30 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
-    },
-    {
-      "id": "d7a52ace7ca0ef5e",
-      "title": "Germany ready to share technology, boost renewable energy investment",
-      "url": "https://en.antaranews.com/news/442647/germany-ready-to-share-technology-boost-renewable-energy-investment",
-      "publishedAt": "2026-11-14T10:19:37+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
-    },
-    {
-      "id": "15bffa01f89e5b6b",
-      "title": "Indonesia to ramp up promotion of Bojonegoro's new Global Geopark",
-      "url": "https://en.antaranews.com/news/442631/indonesia-to-ramp-up-promotion-of-bojonegoros-new-global-geopark",
-      "publishedAt": "2026-11-14T10:03:02+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-14T16:04:19.122183+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-18T00:02:22.456617+00:00",
+      "checkedAt": "2026-11-18T07:14:42.585831+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-18T00:02:22.456617+00:00",
+      "checkedAt": "2026-11-18T07:14:42.585831+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
