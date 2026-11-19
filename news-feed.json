@@ -1,9 +1,69 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T13:33:06.579167+00:00",
-  "lastSuccessfulAt": "2026-11-19T13:33:06.579167+00:00",
-  "status": "partial",
+  "checkedAt": "2026-11-19T21:46:31.782073+00:00",
+  "lastSuccessfulAt": "2026-11-19T21:46:31.782073+00:00",
+  "status": "ok",
   "items": [
+    {
+      "id": "131a193311dbc764",
+      "title": "Estonia offers digital tech to boost RI's public service efficiency",
+      "url": "https://en.antaranews.com/news/443947/estonia-offers-digital-tech-to-boost-ris-public-service-efficiency",
+      "publishedAt": "2026-11-19T19:17:25+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T21:46:31.782073+00:00"
+    },
+    {
+      "id": "b957f22e3a92ba7e",
+      "title": "Ministry urges culinary businesses to use promotional platforms",
+      "url": "https://en.antaranews.com/news/443919/ministry-urges-culinary-businesses-to-use-promotional-platforms",
+      "publishedAt": "2026-11-19T13:47:49+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T21:46:31.782073+00:00"
+    },
+    {
+      "id": "b4646b3fe9fa1499",
+      "title": "Kitchen design, functionality gain importance in home renovation: Poll",
+      "url": "https://en.antaranews.com/news/443915/kitchen-design-functionality-gain-importance-in-home-renovation-poll",
+      "publishedAt": "2026-11-19T13:44:26+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T21:46:31.782073+00:00"
+    },
+    {
+      "id": "3aa76c20b8cf4530",
+      "title": "Prabowo urges developing countries to play role in AI development",
+      "url": "https://en.antaranews.com/news/443911/prabowo-urges-developing-countries-to-play-role-in-ai-development",
+      "publishedAt": "2026-11-19T13:41:10+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T21:46:31.782073+00:00"
+    },
+    {
+      "id": "284e052104369652",
+      "title": "Prabowo to witness US$15 billion in planned investment deals in China",
+      "url": "https://en.antaranews.com/news/443907/prabowo-to-witness-us15-billion-in-planned-investment-deals-in-china",
+      "publishedAt": "2026-11-19T13:40:13+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T21:46:31.782073+00:00"
+    },
     {
       "id": "8163fb35d394ad49",
       "title": "OJK reports 9.43 percent growth in PVML financing to Rp1,066 trillion",
@@ -303,66 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "a4be857e2ea63c7c",
-      "title": "Indonesia demonstrates effectiveness of APEC cooperation: Kadin",
-      "url": "https://en.antaranews.com/news/443411/indonesia-demonstrates-effectiveness-of-apec-cooperation-kadin",
-      "publishedAt": "2026-11-18T07:10:31+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T07:14:42.585831+00:00"
-    },
-    {
-      "id": "c123188017b7e46d",
-      "title": "Indonesia eyes UK trade deal after sealing European Union partnership",
-      "url": "https://en.antaranews.com/news/443407/indonesia-eyes-uk-trade-deal-after-sealing-european-union-partnership",
-      "publishedAt": "2026-11-18T06:59:24+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T07:14:42.585831+00:00"
-    },
-    {
-      "id": "f07baf35d8aba36c",
-      "title": "Indonesia pushes to break free from food import reliance",
-      "url": "https://en.antaranews.com/news/443335/indonesia-pushes-to-break-free-from-food-import-reliance",
-      "publishedAt": "2026-11-17T15:27:13+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
-    },
-    {
-      "id": "3a0143aefd5420a6",
-      "title": "Indonesia speeds up clean energy projects via AZEC 2.0",
-      "url": "https://en.antaranews.com/news/443315/indonesia-speeds-up-clean-energy-projects-via-azec-20",
-      "publishedAt": "2026-11-17T14:10:18+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
-    },
-    {
-      "id": "4d0dadab7187b3a5",
-      "title": "PLN Indonesia Power starts construction of 4.5-MW solar plant in Bali",
-      "url": "https://en.antaranews.com/news/443279/pln-indonesia-power-starts-construction-of-45-mw-solar-plant-in-bali",
-      "publishedAt": "2026-11-17T11:42:33+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-19T13:33:06.579167+00:00",
+      "checkedAt": "2026-11-19T21:46:31.782073+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,9 +380,9 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-19T13:33:06.579167+00:00",
-      "ok": false,
-      "error": "ParseError: no element found: line 1, column 0"
+      "checkedAt": "2026-11-19T21:46:31.782073+00:00",
+      "ok": true,
+      "itemsFound": 0
     }
   ],
   "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
