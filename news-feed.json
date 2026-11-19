@@ -1,9 +1,105 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T04:16:22.560640+00:00",
-  "lastSuccessfulAt": "2026-11-19T04:16:22.560640+00:00",
+  "checkedAt": "2026-11-19T13:33:06.579167+00:00",
+  "lastSuccessfulAt": "2026-11-19T13:33:06.579167+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "8163fb35d394ad49",
+      "title": "OJK reports 9.43 percent growth in PVML financing to Rp1,066 trillion",
+      "url": "https://en.antaranews.com/news/443879/ojk-reports-943-percent-growth-in-pvml-financing-to-rp1066-trillion",
+      "publishedAt": "2026-11-19T11:29:37+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
+    },
+    {
+      "id": "69b46d09fb69978d",
+      "title": "Prabowo says Indonesia secures US$86.8 billion in APEC deals",
+      "url": "https://en.antaranews.com/news/443875/prabowo-says-indonesia-secures-us868-billion-in-apec-deals",
+      "publishedAt": "2026-11-19T11:00:33+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
+    },
+    {
+      "id": "674a19b38b530127",
+      "title": "Indonesia connects 30 tourism businesses with 60 Singaporean partners",
+      "url": "https://en.antaranews.com/news/443863/indonesia-connects-30-tourism-businesses-with-60-singaporean-partners",
+      "publishedAt": "2026-11-19T10:43:27+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
+    },
+    {
+      "id": "2dd1b807ffdaa6e3",
+      "title": "Prabowo highlights APEC's benefits for RI, outlines key MoUs signed",
+      "url": "https://en.antaranews.com/news/443855/prabowo-highlights-apecs-benefits-for-ri-outlines-key-mous-signed",
+      "publishedAt": "2026-11-19T10:22:58+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
+    },
+    {
+      "id": "ad11fb6999e4882b",
+      "title": "Prabowo outlines Indonesia's self-reliance agenda at APEC Summit",
+      "url": "https://en.antaranews.com/news/443843/prabowo-outlines-indonesias-self-reliance-agenda-at-apec-summit",
+      "publishedAt": "2026-11-19T10:12:09+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
+    },
+    {
+      "id": "c8b4d4bd93e45a0c",
+      "title": "Indonesia seeks German capital for high-tech sectors, trade support",
+      "url": "https://en.antaranews.com/news/443783/indonesia-seeks-german-capital-for-high-tech-sectors-trade-support",
+      "publishedAt": "2026-11-19T08:18:22+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
+    },
+    {
+      "id": "27c741d0fc1242fd",
+      "title": "Ministry readies aircraft, crews for year-end holiday flights",
+      "url": "https://en.antaranews.com/news/443779/ministry-readies-aircraft-crews-for-year-end-holiday-flights",
+      "publishedAt": "2026-11-19T07:49:49+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
+    },
+    {
+      "id": "1bf35ae06ed9288b",
+      "title": "US seeks critical minerals supply chain cooperation with ASEAN",
+      "url": "https://en.antaranews.com/news/443695/us-seeks-critical-minerals-supply-chain-cooperation-with-asean",
+      "publishedAt": "2026-11-19T05:16:23+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
+    },
     {
       "id": "20f018a690c49082",
       "title": "Pupuk Indonesia uses digital system to monitor fertilizer supply",
@@ -267,102 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
-    },
-    {
-      "id": "f6d7eb7103dd3223",
-      "title": "Kadin uses APEC CEO Summit to promote Indonesia to Asia-Pacific",
-      "url": "https://en.antaranews.com/news/443275/kadin-uses-apec-ceo-summit-to-promote-indonesia-to-asia-pacific",
-      "publishedAt": "2026-11-17T11:32:05+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
-    },
-    {
-      "id": "af3934090ea3ce6b",
-      "title": "Prabowo urges MSMEs involvement in ASEAN-Japan economic cooperation",
-      "url": "https://en.antaranews.com/news/443243/prabowo-urges-msmes-involvement-in-asean-japan-economic-cooperation",
-      "publishedAt": "2026-11-17T10:13:39+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
-    },
-    {
-      "id": "de35a689cb619012",
-      "title": "Villages ministry urges digital promotion for tourism villages",
-      "url": "https://en.antaranews.com/news/443239/villages-ministry-urges-digital-promotion-for-tourism-villages",
-      "publishedAt": "2026-11-17T09:56:59+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
-    },
-    {
-      "id": "b06130beb7decfab",
-      "title": "ASEAN-Japan Summit: Prabowo introduces RI's 100 GW solar power project",
-      "url": "https://en.antaranews.com/news/443231/asean-japan-summit-prabowo-introduces-ris-100-gw-solar-power-project",
-      "publishedAt": "2026-11-17T09:51:21+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
-    },
-    {
-      "id": "531c0dd6ef2e9f99",
-      "title": "OJK pushes banks to finance green building transformation",
-      "url": "https://en.antaranews.com/news/443227/ojk-pushes-banks-to-finance-green-building-transformation",
-      "publishedAt": "2026-11-17T09:40:47+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T17:42:15.957446+00:00"
-    },
-    {
-      "id": "b9bcad8fd416442c",
-      "title": "Indonesia unveils YouTube festival to tap rural creative economy",
-      "url": "https://en.antaranews.com/news/443175/indonesia-unveils-youtube-festival-to-tap-rural-creative-economy",
-      "publishedAt": "2026-11-17T06:42:29+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T08:12:12.549007+00:00"
-    },
-    {
-      "id": "d463f3c729ad4f09",
-      "title": "Economic growth must start at grassroots, not 'trickle down': Minister",
-      "url": "https://en.antaranews.com/news/443171/economic-growth-must-start-at-grassroots-not-trickle-down-minister",
-      "publishedAt": "2026-11-17T06:29:17+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T08:12:12.549007+00:00"
-    },
-    {
-      "id": "bd789c1129cd5ee5",
-      "title": "Indonesia sees US$472.6 billion climate funding need: Deputy Minister",
-      "url": "https://en.antaranews.com/news/443167/indonesia-sees-us4726-billion-climate-funding-need-deputy-minister",
-      "publishedAt": "2026-11-17T06:27:15+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T08:12:12.549007+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-19T04:16:22.560640+00:00",
+      "checkedAt": "2026-11-19T13:33:06.579167+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-19T04:16:22.560640+00:00",
+      "checkedAt": "2026-11-19T13:33:06.579167+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
