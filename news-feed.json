@@ -1,9 +1,21 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-18T23:07:34.652569+00:00",
-  "lastSuccessfulAt": "2026-11-18T23:07:34.652569+00:00",
+  "checkedAt": "2026-11-19T04:16:22.560640+00:00",
+  "lastSuccessfulAt": "2026-11-19T04:16:22.560640+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "20f018a690c49082",
+      "title": "Pupuk Indonesia uses digital system to monitor fertilizer supply",
+      "url": "https://en.antaranews.com/news/443659/pupuk-indonesia-uses-digital-system-to-monitor-fertilizer-supply",
+      "publishedAt": "2026-11-19T03:11:40+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-19T04:16:22.560640+00:00"
+    },
     {
       "id": "de90bdcf0201e6bb",
       "title": "US seeks space partnership with ASEAN to drive economic growth",
@@ -351,18 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-17T08:12:12.549007+00:00"
-    },
-    {
-      "id": "38a835c6283882cc",
-      "title": "Indonesia bolsters food system to navigate climate change threats",
-      "url": "https://en.antaranews.com/news/443135/indonesia-bolsters-food-system-to-navigate-climate-change-threats",
-      "publishedAt": "2026-11-16T19:21:03+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-17T00:19:20.905484+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-18T23:07:34.652569+00:00",
+      "checkedAt": "2026-11-19T04:16:22.560640+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-18T23:07:34.652569+00:00",
+      "checkedAt": "2026-11-19T04:16:22.560640+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
