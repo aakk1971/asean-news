@@ -1,9 +1,69 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-20T02:41:18.589119+00:00",
-  "lastSuccessfulAt": "2026-11-20T02:41:18.589119+00:00",
-  "status": "partial",
+  "checkedAt": "2026-11-20T10:37:54.604703+00:00",
+  "lastSuccessfulAt": "2026-11-20T10:37:54.604703+00:00",
+  "status": "ok",
   "items": [
+    {
+      "id": "4360464cf515fd3a",
+      "title": "Indonesia's Batang SEZ eyes alliance with European semiconductor firm",
+      "url": "https://en.antaranews.com/news/444119/indonesias-batang-sez-eyes-alliance-with-european-semiconductor-firm",
+      "publishedAt": "2026-11-20T10:21:16+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-20T10:37:54.604703+00:00"
+    },
+    {
+      "id": "a0bcc68ea268f953",
+      "title": "RI coffee, palm sugar draw Rp223 billion in potential deal in Spain",
+      "url": "https://en.antaranews.com/news/444115/ri-coffee-palm-sugar-draw-rp223-billion-in-potential-deal-in-spain",
+      "publishedAt": "2026-11-20T10:11:46+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-20T10:37:54.604703+00:00"
+    },
+    {
+      "id": "f90a1720b7a663d8",
+      "title": "Lampung's Pesawaran named pilot site for sustainable cocoa plan",
+      "url": "https://en.antaranews.com/news/444079/lampungs-pesawaran-named-pilot-site-for-sustainable-cocoa-plan",
+      "publishedAt": "2026-11-20T08:03:55+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-20T10:37:54.604703+00:00"
+    },
+    {
+      "id": "3752738daf4e4be2",
+      "title": "Jakarta MRT reaches 85.3 pct annual passenger target through October",
+      "url": "https://en.antaranews.com/news/444075/jakarta-mrt-reaches-853-pct-annual-passenger-target-through-october",
+      "publishedAt": "2026-11-20T07:51:48+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-20T10:37:54.604703+00:00"
+    },
+    {
+      "id": "7fcdca105b50226e",
+      "title": "Indonesia urges fair coastal gains in blue carbon trading push",
+      "url": "https://en.antaranews.com/news/443979/indonesia-urges-fair-coastal-gains-in-blue-carbon-trading-push",
+      "publishedAt": "2026-11-20T03:02:05+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-20T10:37:54.604703+00:00"
+    },
     {
       "id": "131a193311dbc764",
       "title": "Estonia offers digital tech to boost RI's public service efficiency",
@@ -303,66 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "0a838d6cdd32498c",
-      "title": "OJK calls for stronger regional coordination in ASEAN insurance sector",
-      "url": "https://en.antaranews.com/news/443515/ojk-calls-for-stronger-regional-coordination-in-asean-insurance-sector",
-      "publishedAt": "2026-11-18T10:48:15+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "fc53a0cc9556047e",
-      "title": "BI sees Indonesia's Q4 2026 economic growth remaining solid",
-      "url": "https://en.antaranews.com/news/443511/bi-sees-indonesias-q4-2026-economic-growth-remaining-solid",
-      "publishedAt": "2026-11-18T10:43:27+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "72d888c5759b885c",
-      "title": "Indonesia's 20 pct fertilizer price cut boosts subsidized distribution",
-      "url": "https://en.antaranews.com/news/443499/indonesias-20-pct-fertilizer-price-cut-boosts-subsidized-distribution",
-      "publishedAt": "2026-11-18T10:37:27+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "9a63085cdc3a0482",
-      "title": "Indonesia taps 2,484 village cooperatives for fertilizer distribution",
-      "url": "https://en.antaranews.com/news/443479/indonesia-taps-2484-village-cooperatives-for-fertilizer-distribution",
-      "publishedAt": "2026-11-18T10:09:27+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "beedd0e1ab8cd606",
-      "title": "OJK discusses MSCI assessment with Japan's financial regulator",
-      "url": "https://en.antaranews.com/news/443467/ojk-discusses-msci-assessment-with-japans-financial-regulator",
-      "publishedAt": "2026-11-18T08:58:48+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-20T02:41:18.589119+00:00",
+      "checkedAt": "2026-11-20T10:37:54.604703+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,9 +380,9 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-20T02:41:18.589119+00:00",
-      "ok": false,
-      "error": "ParseError: no element found: line 1, column 0"
+      "checkedAt": "2026-11-20T10:37:54.604703+00:00",
+      "ok": true,
+      "itemsFound": 0
     }
   ],
   "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
