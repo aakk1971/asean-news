@@ -1,9 +1,81 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-20T10:37:54.604703+00:00",
-  "lastSuccessfulAt": "2026-11-20T10:37:54.604703+00:00",
-  "status": "ok",
+  "checkedAt": "2026-11-20T18:52:47.039414+00:00",
+  "lastSuccessfulAt": "2026-11-20T18:52:47.039414+00:00",
+  "status": "partial",
   "items": [
+    {
+      "id": "8e324d6dda23066b",
+      "title": "Indonesia launches tourism guide for BTS fans visiting Jakarta",
+      "url": "https://en.antaranews.com/news/444243/indonesia-launches-tourism-guide-for-bts-fans-visiting-jakarta",
+      "publishedAt": "2026-11-20T16:43:46+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-20T18:52:47.039414+00:00"
+    },
+    {
+      "id": "941db830be491b26",
+      "title": "Indonesia calls for more blue economy investment in Southeast Asia",
+      "url": "https://en.antaranews.com/news/444231/indonesia-calls-for-more-blue-economy-investment-in-southeast-asia",
+      "publishedAt": "2026-11-20T15:13:55+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-20T18:52:47.039414+00:00"
+    },
+    {
+      "id": "4ce3001390eec60b",
+      "title": "Indonesia, EU finalize IEU-CEPA preparations ahead of signing",
+      "url": "https://en.antaranews.com/news/444223/indonesia-eu-finalize-ieu-cepa-preparations-ahead-of-signing",
+      "publishedAt": "2026-11-20T14:25:57+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-20T18:52:47.039414+00:00"
+    },
+    {
+      "id": "9fd73dd757aedcb1",
+      "title": "Indonesia seeks greater role for cooperatives in post-harvest chain",
+      "url": "https://en.antaranews.com/news/444219/indonesia-seeks-greater-role-for-cooperatives-in-post-harvest-chain",
+      "publishedAt": "2026-11-20T13:57:56+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-20T18:52:47.039414+00:00"
+    },
+    {
+      "id": "aefb0e575fc7a5bc",
+      "title": "Indonesia eyes global halal hub status through ecosystem collaboration",
+      "url": "https://en.antaranews.com/news/444203/indonesia-eyes-global-halal-hub-status-through-ecosystem-collaboration",
+      "publishedAt": "2026-11-20T13:38:45+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-20T18:52:47.039414+00:00"
+    },
+    {
+      "id": "0a508b11ee1b1474",
+      "title": "PGN accelerates energy infrastructure expansion through 6 projects",
+      "url": "https://en.antaranews.com/news/444135/pgn-accelerates-energy-infrastructure-expansion-through-6-projects",
+      "publishedAt": "2026-11-20T10:47:26+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-20T18:52:47.039414+00:00"
+    },
     {
       "id": "4360464cf515fd3a",
       "title": "Indonesia's Batang SEZ eyes alliance with European semiconductor firm",
@@ -291,78 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "3424faea23b688f2",
-      "title": "Bank Indonesia reports strong hedging, resilient reserves",
-      "url": "https://en.antaranews.com/news/443563/bank-indonesia-reports-strong-hedging-resilient-reserves",
-      "publishedAt": "2026-11-18T12:00:24+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "2926b01796b015de",
-      "title": "Pertamina tightens Bali gas station oversight ahead of holidays",
-      "url": "https://en.antaranews.com/news/443555/pertamina-tightens-bali-gas-station-oversight-ahead-of-holidays",
-      "publishedAt": "2026-11-18T11:30:49+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "f2137c9c0e6df563",
-      "title": "BI raises rate to 6 percent to defend rupiah against Fed moves",
-      "url": "https://en.antaranews.com/news/443543/bi-raises-rate-to-6-percent-to-defend-rupiah-against-fed-moves",
-      "publishedAt": "2026-11-18T11:26:34+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "f4c42781bc42d5c7",
-      "title": "Global uncertainty fueling financial market volatility, BI warns",
-      "url": "https://en.antaranews.com/news/443531/global-uncertainty-fueling-financial-market-volatility-bi-warns",
-      "publishedAt": "2026-11-18T11:13:52+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "24b7ff2ab565324d",
-      "title": "Decade of SDGs journey brings progress to Indonesia: Ministry",
-      "url": "https://en.antaranews.com/news/443523/decade-of-sdgs-journey-brings-progress-to-indonesia-ministry",
-      "publishedAt": "2026-11-18T11:02:06+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "ed436d68949a2bee",
-      "title": "Indonesia assures rice supply is sufficient for next 10 months",
-      "url": "https://en.antaranews.com/news/443519/indonesia-assures-rice-supply-is-sufficient-for-next-10-months",
-      "publishedAt": "2026-11-18T10:57:03+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-20T10:37:54.604703+00:00",
+      "checkedAt": "2026-11-20T18:52:47.039414+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,9 +380,9 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-20T10:37:54.604703+00:00",
-      "ok": true,
-      "itemsFound": 0
+      "checkedAt": "2026-11-20T18:52:47.039414+00:00",
+      "ok": false,
+      "error": "ParseError: no element found: line 1, column 0"
     }
   ],
   "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
