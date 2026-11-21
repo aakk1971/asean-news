@@ -1,9 +1,57 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-21T00:45:54.399504+00:00",
-  "lastSuccessfulAt": "2026-11-21T00:45:54.399504+00:00",
+  "checkedAt": "2026-11-21T07:46:04.943952+00:00",
+  "lastSuccessfulAt": "2026-11-21T07:46:04.943952+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "e17031a7510601c8",
+      "title": "Minister urges large firms to help MSMEs expand market reach",
+      "url": "https://en.antaranews.com/news/444299/minister-urges-large-firms-to-help-msmes-expand-market-reach",
+      "publishedAt": "2026-11-21T05:20:03+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-21T07:46:04.943952+00:00"
+    },
+    {
+      "id": "bb0077a71ec299fb",
+      "title": "Ministry appreciates Belitung's tourism sector and neat urban layout",
+      "url": "https://en.antaranews.com/news/444291/ministry-appreciates-belitungs-tourism-sector-and-neat-urban-layout",
+      "publishedAt": "2026-11-21T04:43:29+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-21T07:46:04.943952+00:00"
+    },
+    {
+      "id": "2d051c23b9be710a",
+      "title": "Indonesia promotes film and game industries in Bali village",
+      "url": "https://en.antaranews.com/news/444287/indonesia-promotes-film-and-game-industries-in-bali-village",
+      "publishedAt": "2026-11-21T04:33:47+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-21T07:46:04.943952+00:00"
+    },
+    {
+      "id": "2e05cf79337ca61f",
+      "title": "Indonesia boosts efforts to stabilize chicken prices, supplies",
+      "url": "https://en.antaranews.com/news/444271/indonesia-boosts-efforts-to-stabilize-chicken-prices-supplies",
+      "publishedAt": "2026-11-21T04:07:51+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-21T07:46:04.943952+00:00"
+    },
     {
       "id": "8e324d6dda23066b",
       "title": "Indonesia launches tourism guide for BTS fans visiting Jakarta",
@@ -315,54 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "24fcd703ec4a1a29",
-      "title": "Govt seeks to raise formal employment for disabled people to 12 pct",
-      "url": "https://en.antaranews.com/news/443591/govt-seeks-to-raise-formal-employment-for-disabled-people-to-12-pct",
-      "publishedAt": "2026-11-18T14:07:07+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "fa9bf837c66211d6",
-      "title": "RI Govt urges airlines to add flights for year-end holidays",
-      "url": "https://en.antaranews.com/news/443587/ri-govt-urges-airlines-to-add-flights-for-year-end-holidays",
-      "publishedAt": "2026-11-18T13:41:31+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "29441a0eb5fdc39d",
-      "title": "Indonesia, China seal US$71.8 billion in cooperation deals",
-      "url": "https://en.antaranews.com/news/443583/indonesia-china-seal-us718-billion-in-cooperation-deals",
-      "publishedAt": "2026-11-18T13:25:25+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
-    },
-    {
-      "id": "764cdcf4bcf43a6e",
-      "title": "Indonesia trains 20 Caribbean participants in food processing",
-      "url": "https://en.antaranews.com/news/443567/indonesia-trains-20-caribbean-participants-in-food-processing",
-      "publishedAt": "2026-11-18T12:07:49+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-21T00:45:54.399504+00:00",
+      "checkedAt": "2026-11-21T07:46:04.943952+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-21T00:45:54.399504+00:00",
+      "checkedAt": "2026-11-21T07:46:04.943952+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
