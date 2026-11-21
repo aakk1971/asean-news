@@ -1,9 +1,81 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-21T07:46:04.943952+00:00",
-  "lastSuccessfulAt": "2026-11-21T07:46:04.943952+00:00",
+  "checkedAt": "2026-11-21T15:40:29.191978+00:00",
+  "lastSuccessfulAt": "2026-11-21T15:40:29.191978+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "616cc4ab46999a36",
+      "title": "Indonesia, EU seal IEU-CEPA to boost trade cooperation",
+      "url": "https://en.antaranews.com/news/444407/indonesia-eu-seal-ieu-cepa-to-boost-trade-cooperation",
+      "publishedAt": "2026-11-21T15:35:49+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-21T15:40:29.191978+00:00"
+    },
+    {
+      "id": "77052701d4ca81f8",
+      "title": "Indonesia, China seek stronger trade and investment ties",
+      "url": "https://en.antaranews.com/news/444391/indonesia-china-seek-stronger-trade-and-investment-ties",
+      "publishedAt": "2026-11-21T11:14:59+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-21T15:40:29.191978+00:00"
+    },
+    {
+      "id": "2b1ea34a15b9070f",
+      "title": "East Java welcomes Saudi investment plans for hospitals, terminal",
+      "url": "https://en.antaranews.com/news/444387/east-java-welcomes-saudi-investment-plans-for-hospitals-terminal",
+      "publishedAt": "2026-11-21T11:14:16+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-21T15:40:29.191978+00:00"
+    },
+    {
+      "id": "b0264a182564e023",
+      "title": "Indonesian govt links fishermen's data to fuel subsidy access",
+      "url": "https://en.antaranews.com/news/444343/indonesian-govt-links-fishermens-data-to-fuel-subsidy-access",
+      "publishedAt": "2026-11-21T08:48:26+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-21T15:40:29.191978+00:00"
+    },
+    {
+      "id": "c8116d2407a0f3dc",
+      "title": "Indonesia prepares affordable financing for MSMEs",
+      "url": "https://en.antaranews.com/news/444331/indonesia-prepares-affordable-financing-for-msmes",
+      "publishedAt": "2026-11-21T08:15:10+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-21T15:40:29.191978+00:00"
+    },
+    {
+      "id": "14a3466f8d95c9f3",
+      "title": "Indonesia widens ICAO ties for sustainable aviation: Minister",
+      "url": "https://en.antaranews.com/news/444327/indonesia-widens-icao-ties-for-sustainable-aviation-minister",
+      "publishedAt": "2026-11-21T07:56:50+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-21T15:40:29.191978+00:00"
+    },
     {
       "id": "e17031a7510601c8",
       "title": "Minister urges large firms to help MSMEs expand market reach",
@@ -291,78 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
-    },
-    {
-      "id": "ad11fb6999e4882b",
-      "title": "Prabowo outlines Indonesia's self-reliance agenda at APEC Summit",
-      "url": "https://en.antaranews.com/news/443843/prabowo-outlines-indonesias-self-reliance-agenda-at-apec-summit",
-      "publishedAt": "2026-11-19T10:12:09+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
-    },
-    {
-      "id": "c8b4d4bd93e45a0c",
-      "title": "Indonesia seeks German capital for high-tech sectors, trade support",
-      "url": "https://en.antaranews.com/news/443783/indonesia-seeks-german-capital-for-high-tech-sectors-trade-support",
-      "publishedAt": "2026-11-19T08:18:22+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
-    },
-    {
-      "id": "27c741d0fc1242fd",
-      "title": "Ministry readies aircraft, crews for year-end holiday flights",
-      "url": "https://en.antaranews.com/news/443779/ministry-readies-aircraft-crews-for-year-end-holiday-flights",
-      "publishedAt": "2026-11-19T07:49:49+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
-    },
-    {
-      "id": "1bf35ae06ed9288b",
-      "title": "US seeks critical minerals supply chain cooperation with ASEAN",
-      "url": "https://en.antaranews.com/news/443695/us-seeks-critical-minerals-supply-chain-cooperation-with-asean",
-      "publishedAt": "2026-11-19T05:16:23+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
-    },
-    {
-      "id": "20f018a690c49082",
-      "title": "Pupuk Indonesia uses digital system to monitor fertilizer supply",
-      "url": "https://en.antaranews.com/news/443659/pupuk-indonesia-uses-digital-system-to-monitor-fertilizer-supply",
-      "publishedAt": "2026-11-19T03:11:40+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-19T04:16:22.560640+00:00"
-    },
-    {
-      "id": "de90bdcf0201e6bb",
-      "title": "US seeks space partnership with ASEAN to drive economic growth",
-      "url": "https://en.antaranews.com/news/443607/us-seeks-space-partnership-with-asean-to-drive-economic-growth",
-      "publishedAt": "2026-11-18T16:14:55+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-18T16:35:03.317721+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-21T07:46:04.943952+00:00",
+      "checkedAt": "2026-11-21T15:40:29.191978+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-21T07:46:04.943952+00:00",
+      "checkedAt": "2026-11-21T15:40:29.191978+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
