@@ -1,9 +1,57 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-22T01:26:13.530823+00:00",
-  "lastSuccessfulAt": "2026-11-22T01:26:13.530823+00:00",
-  "status": "ok",
+  "checkedAt": "2026-11-22T08:46:07.428007+00:00",
+  "lastSuccessfulAt": "2026-11-22T08:46:07.428007+00:00",
+  "status": "partial",
   "items": [
+    {
+      "id": "b469a82094318566",
+      "title": "IEU-CEPA to expand Indonesia's flagship exports: Trade Minister",
+      "url": "https://en.antaranews.com/news/444459/ieu-cepa-to-expand-indonesias-flagship-exports-trade-minister",
+      "publishedAt": "2026-11-22T04:51:39+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-22T08:46:07.428007+00:00"
+    },
+    {
+      "id": "7ed5d26fee17ae83",
+      "title": "Governor launches 2027 Central Java Calendar of Events",
+      "url": "https://en.antaranews.com/news/444455/governor-launches-2027-central-java-calendar-of-events",
+      "publishedAt": "2026-11-22T03:32:44+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-22T08:46:07.428007+00:00"
+    },
+    {
+      "id": "46d63c7a2c40fc6c",
+      "title": "Indonesia-EU pact to open new export markets: trade minister",
+      "url": "https://en.antaranews.com/news/444447/indonesia-eu-pact-to-open-new-export-markets-trade-minister",
+      "publishedAt": "2026-11-22T02:48:28+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-22T08:46:07.428007+00:00"
+    },
+    {
+      "id": "fe02c39d8881674e",
+      "title": "Indonesia-EU deals set to expand market access for MSMEs",
+      "url": "https://en.antaranews.com/news/444427/indonesia-eu-deals-set-to-expand-market-access-for-msmes",
+      "publishedAt": "2026-11-22T02:18:25+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-22T08:46:07.428007+00:00"
+    },
     {
       "id": "4feca5ebf7188795",
       "title": "IEU-CEPA to grant zero tariffs on 90.4% of Indonesian exports",
@@ -315,54 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-19T21:46:31.782073+00:00"
-    },
-    {
-      "id": "284e052104369652",
-      "title": "Prabowo to witness US$15 billion in planned investment deals in China",
-      "url": "https://en.antaranews.com/news/443907/prabowo-to-witness-us15-billion-in-planned-investment-deals-in-china",
-      "publishedAt": "2026-11-19T13:40:13+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-19T21:46:31.782073+00:00"
-    },
-    {
-      "id": "8163fb35d394ad49",
-      "title": "OJK reports 9.43 percent growth in PVML financing to Rp1,066 trillion",
-      "url": "https://en.antaranews.com/news/443879/ojk-reports-943-percent-growth-in-pvml-financing-to-rp1066-trillion",
-      "publishedAt": "2026-11-19T11:29:37+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
-    },
-    {
-      "id": "69b46d09fb69978d",
-      "title": "Prabowo says Indonesia secures US$86.8 billion in APEC deals",
-      "url": "https://en.antaranews.com/news/443875/prabowo-says-indonesia-secures-us868-billion-in-apec-deals",
-      "publishedAt": "2026-11-19T11:00:33+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
-    },
-    {
-      "id": "674a19b38b530127",
-      "title": "Indonesia connects 30 tourism businesses with 60 Singaporean partners",
-      "url": "https://en.antaranews.com/news/443863/indonesia-connects-30-tourism-businesses-with-60-singaporean-partners",
-      "publishedAt": "2026-11-19T10:43:27+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-19T13:33:06.579167+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-22T01:26:13.530823+00:00",
+      "checkedAt": "2026-11-22T08:46:07.428007+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,9 +380,9 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-22T01:26:13.530823+00:00",
-      "ok": true,
-      "itemsFound": 0
+      "checkedAt": "2026-11-22T08:46:07.428007+00:00",
+      "ok": false,
+      "error": "ParseError: no element found: line 1, column 0"
     }
   ],
   "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
