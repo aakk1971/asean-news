@@ -1,9 +1,33 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-22T08:46:07.428007+00:00",
-  "lastSuccessfulAt": "2026-11-22T08:46:07.428007+00:00",
+  "checkedAt": "2026-11-22T16:43:22.094525+00:00",
+  "lastSuccessfulAt": "2026-11-22T16:43:22.094525+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "ec1575c9eb26b882",
+      "title": "West Java's Bekasi basmati rice eyed for export to Saudi Arabia",
+      "url": "https://en.antaranews.com/news/444547/west-javas-bekasi-basmati-rice-eyed-for-export-to-saudi-arabia",
+      "publishedAt": "2026-11-22T15:16:17+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-22T16:43:22.094525+00:00"
+    },
+    {
+      "id": "93efa0d270b79826",
+      "title": "Indonesia, EU sign IEU-CEPA to boost exports, attract investment",
+      "url": "https://en.antaranews.com/news/444523/indonesia-eu-sign-ieu-cepa-to-boost-exports-attract-investment",
+      "publishedAt": "2026-11-22T11:54:21+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-22T16:43:22.094525+00:00"
+    },
     {
       "id": "b469a82094318566",
       "title": "IEU-CEPA to expand Indonesia's flagship exports: Trade Minister",
@@ -339,30 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-19T21:46:31.782073+00:00"
-    },
-    {
-      "id": "b4646b3fe9fa1499",
-      "title": "Kitchen design, functionality gain importance in home renovation: Poll",
-      "url": "https://en.antaranews.com/news/443915/kitchen-design-functionality-gain-importance-in-home-renovation-poll",
-      "publishedAt": "2026-11-19T13:44:26+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-19T21:46:31.782073+00:00"
-    },
-    {
-      "id": "3aa76c20b8cf4530",
-      "title": "Prabowo urges developing countries to play role in AI development",
-      "url": "https://en.antaranews.com/news/443911/prabowo-urges-developing-countries-to-play-role-in-ai-development",
-      "publishedAt": "2026-11-19T13:41:10+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-19T21:46:31.782073+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-22T08:46:07.428007+00:00",
+      "checkedAt": "2026-11-22T16:43:22.094525+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-22T08:46:07.428007+00:00",
+      "checkedAt": "2026-11-22T16:43:22.094525+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
