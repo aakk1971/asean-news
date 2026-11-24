@@ -1,9 +1,57 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-23T12:18:45.356764+00:00",
-  "lastSuccessfulAt": "2026-11-23T12:18:45.356764+00:00",
+  "checkedAt": "2026-11-24T00:06:56.598176+00:00",
+  "lastSuccessfulAt": "2026-11-24T00:06:56.598176+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "b585ce15a4075268",
+      "title": "Indonesia eyes stronger horticulture product quality via HDDAP",
+      "url": "https://en.antaranews.com/news/444815/indonesia-eyes-stronger-horticulture-product-quality-via-hddap",
+      "publishedAt": "2026-11-23T16:20:14+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-24T00:06:56.598176+00:00"
+    },
+    {
+      "id": "ee3a7f01ad23146c",
+      "title": "Indonesia partners with US firm to turn coal into synthetic gas",
+      "url": "https://en.antaranews.com/news/444795/indonesia-partners-with-us-firm-to-turn-coal-into-synthetic-gas",
+      "publishedAt": "2026-11-23T14:51:26+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-24T00:06:56.598176+00:00"
+    },
+    {
+      "id": "7b91610e51e4ec38",
+      "title": "Indonesia, EU discuss food safety rules under IEU-CEPA",
+      "url": "https://en.antaranews.com/news/444791/indonesia-eu-discuss-food-safety-rules-under-ieu-cepa",
+      "publishedAt": "2026-11-23T14:36:46+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-24T00:06:56.598176+00:00"
+    },
+    {
+      "id": "f710317467ec5dd8",
+      "title": "Indonesia reaffirms gas export commitments to Singapore",
+      "url": "https://en.antaranews.com/news/444779/indonesia-reaffirms-gas-export-commitments-to-singapore",
+      "publishedAt": "2026-11-23T13:10:39+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-24T00:06:56.598176+00:00"
+    },
     {
       "id": "3b2cb9b053f3b823",
       "title": "Indonesia probes factory fire that left 34 people missing",
@@ -315,54 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-23T02:54:48.842718+00:00"
-    },
-    {
-      "id": "e17031a7510601c8",
-      "title": "Minister urges large firms to help MSMEs expand market reach",
-      "url": "https://en.antaranews.com/news/444299/minister-urges-large-firms-to-help-msmes-expand-market-reach",
-      "publishedAt": "2026-11-21T05:20:03+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-23T02:54:48.842718+00:00"
-    },
-    {
-      "id": "bb0077a71ec299fb",
-      "title": "Ministry appreciates Belitung's tourism sector and neat urban layout",
-      "url": "https://en.antaranews.com/news/444291/ministry-appreciates-belitungs-tourism-sector-and-neat-urban-layout",
-      "publishedAt": "2026-11-21T04:43:29+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-23T02:54:48.842718+00:00"
-    },
-    {
-      "id": "2d051c23b9be710a",
-      "title": "Indonesia promotes film and game industries in Bali village",
-      "url": "https://en.antaranews.com/news/444287/indonesia-promotes-film-and-game-industries-in-bali-village",
-      "publishedAt": "2026-11-21T04:33:47+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-23T02:54:48.842718+00:00"
-    },
-    {
-      "id": "2e05cf79337ca61f",
-      "title": "Indonesia boosts efforts to stabilize chicken prices, supplies",
-      "url": "https://en.antaranews.com/news/444271/indonesia-boosts-efforts-to-stabilize-chicken-prices-supplies",
-      "publishedAt": "2026-11-21T04:07:51+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-23T02:54:48.842718+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-23T12:18:45.356764+00:00",
+      "checkedAt": "2026-11-24T00:06:56.598176+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-23T12:18:45.356764+00:00",
+      "checkedAt": "2026-11-24T00:06:56.598176+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
