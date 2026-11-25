@@ -1,9 +1,33 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-24T20:27:20.004692+00:00",
-  "lastSuccessfulAt": "2026-11-24T20:27:20.004692+00:00",
-  "status": "ok",
+  "checkedAt": "2026-11-25T03:43:32.140229+00:00",
+  "lastSuccessfulAt": "2026-11-25T03:43:32.140229+00:00",
+  "status": "partial",
   "items": [
+    {
+      "id": "9dca8d079a394208",
+      "title": "Indonesia sees IEU-CEPA boosting footwear exports to European market",
+      "url": "https://en.antaranews.com/news/445155/indonesia-sees-ieu-cepa-boosting-footwear-exports-to-european-market",
+      "publishedAt": "2026-11-25T03:01:43+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-25T03:43:32.140229+00:00"
+    },
+    {
+      "id": "c198c42201768268",
+      "title": "Indonesia advances reviews across 25 policy areas in bid to join OECD",
+      "url": "https://en.antaranews.com/news/445147/indonesia-advances-reviews-across-25-policy-areas-in-bid-to-join-oecd",
+      "publishedAt": "2026-11-25T01:46:08+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-25T03:43:32.140229+00:00"
+    },
     {
       "id": "dd4bc99369a70905",
       "title": "Danantara targets up to Rp6 trillion Profit in 2027",
@@ -339,30 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-24T00:06:56.598176+00:00"
-    },
-    {
-      "id": "7b91610e51e4ec38",
-      "title": "Indonesia, EU discuss food safety rules under IEU-CEPA",
-      "url": "https://en.antaranews.com/news/444791/indonesia-eu-discuss-food-safety-rules-under-ieu-cepa",
-      "publishedAt": "2026-11-23T14:36:46+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-24T00:06:56.598176+00:00"
-    },
-    {
-      "id": "f710317467ec5dd8",
-      "title": "Indonesia reaffirms gas export commitments to Singapore",
-      "url": "https://en.antaranews.com/news/444779/indonesia-reaffirms-gas-export-commitments-to-singapore",
-      "publishedAt": "2026-11-23T13:10:39+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-24T00:06:56.598176+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-24T20:27:20.004692+00:00",
+      "checkedAt": "2026-11-25T03:43:32.140229+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,9 +380,9 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-24T20:27:20.004692+00:00",
-      "ok": true,
-      "itemsFound": 0
+      "checkedAt": "2026-11-25T03:43:32.140229+00:00",
+      "ok": false,
+      "error": "ParseError: no element found: line 1, column 0"
     }
   ],
   "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
