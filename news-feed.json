@@ -1,9 +1,93 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-25T13:38:53.597023+00:00",
-  "lastSuccessfulAt": "2026-11-25T13:38:53.597023+00:00",
-  "status": "ok",
+  "checkedAt": "2026-11-25T22:50:02.976017+00:00",
+  "lastSuccessfulAt": "2026-11-25T22:50:02.976017+00:00",
+  "status": "partial",
   "items": [
+    {
+      "id": "29f06229076b5eb2",
+      "title": "Indonesia's blue economy investment reaches US$5.1 billion",
+      "url": "https://en.antaranews.com/news/445443/indonesias-blue-economy-investment-reaches-us51-billion",
+      "publishedAt": "2026-11-25T16:40:22+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-25T22:50:02.976017+00:00"
+    },
+    {
+      "id": "9e51219855f0f826",
+      "title": "RI holds US$15.3 bln investment potential in marine, fisheries: govt",
+      "url": "https://en.antaranews.com/news/445431/ri-holds-us153-bln-investment-potential-in-marine-fisheries-govt",
+      "publishedAt": "2026-11-25T15:42:57+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-25T22:50:02.976017+00:00"
+    },
+    {
+      "id": "12617ab745508dc0",
+      "title": "Prabowo orders Garuda Indonesia revamp into world-class airline",
+      "url": "https://en.antaranews.com/news/445419/prabowo-orders-garuda-indonesia-revamp-into-world-class-airline",
+      "publishedAt": "2026-11-25T14:23:02+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-25T22:50:02.976017+00:00"
+    },
+    {
+      "id": "8faab3804d91c5cc",
+      "title": "Danantara invests Rp162 trillion across energy, food and hajj sectors",
+      "url": "https://en.antaranews.com/news/445415/danantara-invests-rp162-trillion-across-energy-food-and-hajj-sectors",
+      "publishedAt": "2026-11-25T14:18:23+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-25T22:50:02.976017+00:00"
+    },
+    {
+      "id": "84d868120cfe4a13",
+      "title": "BI posts Rp117.8 trillion budget surplus as of September",
+      "url": "https://en.antaranews.com/news/445395/bi-posts-rp1178-trillion-budget-surplus-as-of-september",
+      "publishedAt": "2026-11-25T14:07:07+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-25T22:50:02.976017+00:00"
+    },
+    {
+      "id": "ec9619b0a80b393a",
+      "title": "IEU-CEPA marks new chapter in Indonesia-Italy trade ties: Kadin",
+      "url": "https://en.antaranews.com/news/445391/ieu-cepa-marks-new-chapter-in-indonesia-italy-trade-ties-kadin",
+      "publishedAt": "2026-11-25T13:56:06+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-25T22:50:02.976017+00:00"
+    },
+    {
+      "id": "ec8e1d5b2e09ed53",
+      "title": "Danantara streamlines 380 SOEs, targets 600 by end of 2026",
+      "url": "https://en.antaranews.com/news/445383/danantara-streamlines-380-soes-targets-600-by-end-of-2026",
+      "publishedAt": "2026-11-25T13:45:45+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-25T22:50:02.976017+00:00"
+    },
     {
       "id": "5c8b738b511aa87d",
       "title": "RI eyes opportunities in US$1 trillion global semiconductor market",
@@ -279,90 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-24T20:27:20.004692+00:00"
-    },
-    {
-      "id": "b0da1d8adab86193",
-      "title": "Indonesia plans tighter soybean import oversight to track prices",
-      "url": "https://en.antaranews.com/news/445071/indonesia-plans-tighter-soybean-import-oversight-to-track-prices",
-      "publishedAt": "2026-11-24T15:41:51+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-24T20:27:20.004692+00:00"
-    },
-    {
-      "id": "aaedc7b0a9de8218",
-      "title": "Indonesia hosts ASEAN workshop in Bali to boost wellness tourism",
-      "url": "https://en.antaranews.com/news/445067/indonesia-hosts-asean-workshop-in-bali-to-boost-wellness-tourism",
-      "publishedAt": "2026-11-24T13:46:18+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-24T20:27:20.004692+00:00"
-    },
-    {
-      "id": "a757ba0a8d6ea85f",
-      "title": "President orders follow-up on US$15 billion China investment deals",
-      "url": "https://en.antaranews.com/news/445063/president-orders-follow-up-on-us15-billion-china-investment-deals",
-      "publishedAt": "2026-11-24T13:12:20+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-24T20:27:20.004692+00:00"
-    },
-    {
-      "id": "ac56ac624be3894e",
-      "title": "Prabowo orders acceleration of downstreaming, investment realization",
-      "url": "https://en.antaranews.com/news/445059/prabowo-orders-acceleration-of-downstreaming-investment-realization",
-      "publishedAt": "2026-11-24T12:52:31+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-24T20:27:20.004692+00:00"
-    },
-    {
-      "id": "b57f91d6f6525abb",
-      "title": "Five priority steps to expand job market for disabled people: Ministry",
-      "url": "https://en.antaranews.com/news/444999/five-priority-steps-to-expand-job-market-for-disabled-people-ministry",
-      "publishedAt": "2026-11-24T11:37:00+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-24T20:27:20.004692+00:00"
-    },
-    {
-      "id": "147cfbcd1a592f27",
-      "title": "Indonesia steps up irrigation push to sustain food self-sufficiency",
-      "url": "https://en.antaranews.com/news/444987/indonesia-steps-up-irrigation-push-to-sustain-food-self-sufficiency",
-      "publishedAt": "2026-11-24T11:31:40+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-24T20:27:20.004692+00:00"
-    },
-    {
-      "id": "3f6a8fac088e2727",
-      "title": "RI Govt accelerates planting with 459 pumps for Cilacap farmers",
-      "url": "https://en.antaranews.com/news/444983/ri-govt-accelerates-planting-with-459-pumps-for-cilacap-farmers",
-      "publishedAt": "2026-11-24T11:14:12+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-24T20:27:20.004692+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-25T13:38:53.597023+00:00",
+      "checkedAt": "2026-11-25T22:50:02.976017+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,9 +380,9 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-25T13:38:53.597023+00:00",
-      "ok": true,
-      "itemsFound": 0
+      "checkedAt": "2026-11-25T22:50:02.976017+00:00",
+      "ok": false,
+      "error": "ParseError: no element found: line 1, column 0"
     }
   ],
   "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
