@@ -1,9 +1,21 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-25T22:50:02.976017+00:00",
-  "lastSuccessfulAt": "2026-11-25T22:50:02.976017+00:00",
+  "checkedAt": "2026-11-26T04:35:26.802980+00:00",
+  "lastSuccessfulAt": "2026-11-26T04:35:26.802980+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "107231c8d8fb7074",
+      "title": "Indonesia seeks further cut in EU inspection for nutmeg exports",
+      "url": "https://en.antaranews.com/news/445467/indonesia-seeks-further-cut-in-eu-inspection-for-nutmeg-exports",
+      "publishedAt": "2026-11-26T03:58:02+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-26T04:35:26.802980+00:00"
+    },
     {
       "id": "29f06229076b5eb2",
       "title": "Indonesia's blue economy investment reaches US$5.1 billion",
@@ -351,18 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-24T20:27:20.004692+00:00"
-    },
-    {
-      "id": "f13fe93cf9e5c3fd",
-      "title": "Electric stoves will begin to be used in 2027",
-      "url": "https://en.antaranews.com/news/445087/electric-stoves-will-begin-to-be-used-in-2027",
-      "publishedAt": "2026-11-24T15:48:10+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-24T20:27:20.004692+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-25T22:50:02.976017+00:00",
+      "checkedAt": "2026-11-26T04:35:26.802980+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-25T22:50:02.976017+00:00",
+      "checkedAt": "2026-11-26T04:35:26.802980+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
