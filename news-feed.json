@@ -1,9 +1,81 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-27T15:20:32.788989+00:00",
-  "lastSuccessfulAt": "2026-11-27T15:20:32.788989+00:00",
+  "checkedAt": "2026-11-27T23:36:31.561749+00:00",
+  "lastSuccessfulAt": "2026-11-27T23:36:31.561749+00:00",
   "status": "partial",
   "items": [
+    {
+      "id": "aa2f00752f63bd64",
+      "title": "BI outlines five policy pillars to optimize resource downstreaming",
+      "url": "https://en.antaranews.com/news/445983/bi-outlines-five-policy-pillars-to-optimize-resource-downstreaming",
+      "publishedAt": "2026-11-27T22:48:03+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-27T23:36:31.561749+00:00"
+    },
+    {
+      "id": "7bb27d86b1ffd529",
+      "title": "BI to reinforce monetary policy to guard rupiah, inflation in 2027",
+      "url": "https://en.antaranews.com/news/445975/bi-to-reinforce-monetary-policy-to-guard-rupiah-inflation-in-2027",
+      "publishedAt": "2026-11-27T22:24:23+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-27T23:36:31.561749+00:00"
+    },
+    {
+      "id": "1d70368078a383e0",
+      "title": "Prabowo says procurement leakages could cost Indonesia US$21 billion",
+      "url": "https://en.antaranews.com/news/445971/prabowo-says-procurement-leakages-could-cost-indonesia-us21-billion",
+      "publishedAt": "2026-11-27T22:16:35+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-27T23:36:31.561749+00:00"
+    },
+    {
+      "id": "094a16a480abdb2a",
+      "title": "Bank Indonesia eyes 6 percent economic growth in 2027",
+      "url": "https://en.antaranews.com/news/445967/bank-indonesia-eyes-6-percent-economic-growth-in-2027",
+      "publishedAt": "2026-11-27T21:59:51+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-27T23:36:31.561749+00:00"
+    },
+    {
+      "id": "cc7c1c5e9f92d548",
+      "title": "Indonesia-UAE trade targeted to surpass US$8 billion by 2030",
+      "url": "https://en.antaranews.com/news/445963/indonesia-uae-trade-targeted-to-surpass-us8-billion-by-2030",
+      "publishedAt": "2026-11-27T16:27:30+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-27T23:36:31.561749+00:00"
+    },
+    {
+      "id": "3729cc48d9f90ed5",
+      "title": "Batang SEZ targets 2028 opening for first hotel to boost business",
+      "url": "https://en.antaranews.com/news/445947/batang-sez-targets-2028-opening-for-first-hotel-to-boost-business",
+      "publishedAt": "2026-11-27T15:23:38+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-27T23:36:31.561749+00:00"
+    },
     {
       "id": "81d3f93531e38c01",
       "title": "Indonesia secures entry into CPTPP accession process: Minister",
@@ -291,78 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
-    },
-    {
-      "id": "f4ccf0bef65c890b",
-      "title": "INA-backed plasma plant to cut medicine prices by up to 24.6 percent",
-      "url": "https://en.antaranews.com/news/445671/ina-backed-plasma-plant-to-cut-medicine-prices-by-up-to-246-percent",
-      "publishedAt": "2026-11-26T12:12:18+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
-    },
-    {
-      "id": "3e35f41e8f5293c9",
-      "title": "RI exports manufactured products worth US$6.19 bln to 110 countries",
-      "url": "https://en.antaranews.com/news/445667/ri-exports-manufactured-products-worth-us619-bln-to-110-countries",
-      "publishedAt": "2026-11-26T12:08:52+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
-    },
-    {
-      "id": "c4716bcb980528cb",
-      "title": "Capital market reform a long-term pledge to build trust: OJK",
-      "url": "https://en.antaranews.com/news/445655/capital-market-reform-a-long-term-pledge-to-build-trust-ojk",
-      "publishedAt": "2026-11-26T12:00:38+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
-    },
-    {
-      "id": "7f87a97c2ed6027d",
-      "title": "Manufacturing exports projected at up to US$252 bln in 2026",
-      "url": "https://en.antaranews.com/news/445651/manufacturing-exports-projected-at-up-to-us252-bln-in-2026",
-      "publishedAt": "2026-11-26T11:53:08+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
-    },
-    {
-      "id": "181f48d9217a1bd0",
-      "title": "RI Govt maintains 18--20 days of fuel stocks for year-end holidays",
-      "url": "https://en.antaranews.com/news/445647/ri-govt-maintains-18-20-days-of-fuel-stocks-for-year-end-holidays",
-      "publishedAt": "2026-11-26T11:50:05+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
-    },
-    {
-      "id": "d1e90856a1062c4d",
-      "title": "Danantara Asset Management eyes Rp332 trillion profit in 2026",
-      "url": "https://en.antaranews.com/news/445639/danantara-asset-management-eyes-rp332-trillion-profit-in-2026",
-      "publishedAt": "2026-11-26T11:31:44+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-27T15:20:32.788989+00:00",
+      "checkedAt": "2026-11-27T23:36:31.561749+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,7 +380,7 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-27T15:20:32.788989+00:00",
+      "checkedAt": "2026-11-27T23:36:31.561749+00:00",
       "ok": false,
       "error": "ParseError: no element found: line 1, column 0"
     }
