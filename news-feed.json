@@ -1,9 +1,117 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-28T04:57:34.512736+00:00",
-  "lastSuccessfulAt": "2026-11-28T04:57:34.512736+00:00",
-  "status": "ok",
+  "checkedAt": "2026-11-28T14:06:39.344423+00:00",
+  "lastSuccessfulAt": "2026-11-28T14:06:39.344423+00:00",
+  "status": "partial",
   "items": [
+    {
+      "id": "6ab9c349b8e7f528",
+      "title": "RI seeks stronger role in global auto supply chains",
+      "url": "https://en.antaranews.com/news/446111/ri-seeks-stronger-role-in-global-auto-supply-chains",
+      "publishedAt": "2026-11-28T13:35:11+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-28T14:06:39.344423+00:00"
+    },
+    {
+      "id": "b2964d3d855c0ead",
+      "title": "Indonesia, Norway seek to boost trade under IE-CEPA",
+      "url": "https://en.antaranews.com/news/446095/indonesia-norway-seek-to-boost-trade-under-ie-cepa",
+      "publishedAt": "2026-11-28T13:04:55+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-28T14:06:39.344423+00:00"
+    },
+    {
+      "id": "9ecd5b2a3b2818d3",
+      "title": "Indonesia ensures stable fuel prices protect purchasing power",
+      "url": "https://en.antaranews.com/news/446087/indonesia-ensures-stable-fuel-prices-protect-purchasing-power",
+      "publishedAt": "2026-11-28T11:45:57+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-28T14:06:39.344423+00:00"
+    },
+    {
+      "id": "ffb291ec2ac80c22",
+      "title": "Middle-income home loan scheme to close financing gap: BP Tapera",
+      "url": "https://en.antaranews.com/news/446039/middle-income-home-loan-scheme-to-close-financing-gap-bp-tapera",
+      "publishedAt": "2026-11-28T09:12:55+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-28T14:06:39.344423+00:00"
+    },
+    {
+      "id": "1fc0f80bbede3768",
+      "title": "Ministry urges industrial zones to go green for competitiveness",
+      "url": "https://en.antaranews.com/news/446027/ministry-urges-industrial-zones-to-go-green-for-competitiveness",
+      "publishedAt": "2026-11-28T08:52:26+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-28T14:06:39.344423+00:00"
+    },
+    {
+      "id": "7cd819e0699d03a6",
+      "title": "Investment success measured by jobs, not permits: Deputy Minister",
+      "url": "https://en.antaranews.com/news/446023/investment-success-measured-by-jobs-not-permits-deputy-minister",
+      "publishedAt": "2026-11-28T08:45:28+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-28T14:06:39.344423+00:00"
+    },
+    {
+      "id": "8a19198084f83557",
+      "title": "Ministry boosts irrigation infrastructure synergy for food security",
+      "url": "https://en.antaranews.com/news/446003/ministry-boosts-irrigation-infrastructure-synergy-for-food-security",
+      "publishedAt": "2026-11-28T07:40:58+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-28T14:06:39.344423+00:00"
+    },
+    {
+      "id": "88eb03caf13fabc8",
+      "title": "Analyst praises Danantara's role to supporting state tax revenues",
+      "url": "https://en.antaranews.com/news/445999/analyst-praises-danantaras-role-to-supporting-state-tax-revenues",
+      "publishedAt": "2026-11-28T07:35:30+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-28T14:06:39.344423+00:00"
+    },
+    {
+      "id": "fe7b312d382702bb",
+      "title": "Indonesia sees longer stays, higher spending by foreign tourists",
+      "url": "https://en.antaranews.com/news/445995/indonesia-sees-longer-stays-higher-spending-by-foreign-tourists",
+      "publishedAt": "2026-11-28T06:41:26+00:00",
+      "sourceId": "antara-business",
+      "sourceName": "ANTARA Business & Investment",
+      "country": "Indonesia",
+      "language": "en",
+      "status": "source-headline",
+      "firstSeenAt": "2026-11-28T14:06:39.344423+00:00"
+    },
     {
       "id": "aa2f00752f63bd64",
       "title": "BI outlines five policy pillars to optimize resource downstreaming",
@@ -255,114 +363,6 @@
       "language": "en",
       "status": "source-headline",
       "firstSeenAt": "2026-11-27T15:20:32.788989+00:00"
-    },
-    {
-      "id": "dccdee29fe15bfa6",
-      "title": "Business ID number issuance hits 17 mln, surpasses 2029 target: govt",
-      "url": "https://en.antaranews.com/news/445815/business-id-number-issuance-hits-17-mln-surpasses-2029-target-govt",
-      "publishedAt": "2026-11-27T09:20:05+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-27T15:20:32.788989+00:00"
-    },
-    {
-      "id": "89bc998338f11fb4",
-      "title": "Indonesia's entrepreneurship ratio reaches 3.30 percent in 2026",
-      "url": "https://en.antaranews.com/news/445803/indonesias-entrepreneurship-ratio-reaches-330-percent-in-2026",
-      "publishedAt": "2026-11-27T09:14:21+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-27T15:20:32.788989+00:00"
-    },
-    {
-      "id": "f86eff0573aa9f50",
-      "title": "Ministry connects 8,000 MSMEs to join free meal supply chain",
-      "url": "https://en.antaranews.com/news/445795/ministry-connects-8000-msmes-to-join-free-meal-supply-chain",
-      "publishedAt": "2026-11-27T08:34:48+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-27T15:20:32.788989+00:00"
-    },
-    {
-      "id": "fd30bdc8cd5f18e9",
-      "title": "Minister seeks to link pesantren products with Red-White cooperatives",
-      "url": "https://en.antaranews.com/news/445751/minister-seeks-to-link-pesantren-products-with-red-white-cooperatives",
-      "publishedAt": "2026-11-27T06:30:09+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-27T15:20:32.788989+00:00"
-    },
-    {
-      "id": "4bc8264f5c5b1673",
-      "title": "Indonesia leverages 2026 OECD survey for structural economic reform",
-      "url": "https://en.antaranews.com/news/445695/indonesia-leverages-2026-oecd-survey-for-structural-economic-reform",
-      "publishedAt": "2026-11-26T13:58:15+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
-    },
-    {
-      "id": "e04459ad8e6f3e97",
-      "title": "RI pushes export diversification amid proposed 18 percent US tariffs",
-      "url": "https://en.antaranews.com/news/445691/ri-pushes-export-diversification-amid-proposed-18-percent-us-tariffs",
-      "publishedAt": "2026-11-26T13:13:11+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
-    },
-    {
-      "id": "16b60a888a5e4db5",
-      "title": "Indonesia curbs finished-goods imports to boost local industry",
-      "url": "https://en.antaranews.com/news/445687/indonesia-curbs-finished-goods-imports-to-boost-local-industry",
-      "publishedAt": "2026-11-26T13:05:50+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
-    },
-    {
-      "id": "b42eef8bbf09a607",
-      "title": "Prabowo pushes RI's OECD accession to reform public services",
-      "url": "https://en.antaranews.com/news/445683/prabowo-pushes-ris-oecd-accession-to-reform-public-services",
-      "publishedAt": "2026-11-26T12:55:01+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
-    },
-    {
-      "id": "69e8051b3cf241b9",
-      "title": "Indonesia to pursue dialogue with US over proposed 18 percent tariff",
-      "url": "https://en.antaranews.com/news/445679/indonesia-to-pursue-dialogue-with-us-over-proposed-18-percent-tariff",
-      "publishedAt": "2026-11-26T12:52:40+00:00",
-      "sourceId": "antara-business",
-      "sourceName": "ANTARA Business & Investment",
-      "country": "Indonesia",
-      "language": "en",
-      "status": "source-headline",
-      "firstSeenAt": "2026-11-26T14:26:47.868772+00:00"
     }
   ],
   "sources": [
@@ -371,7 +371,7 @@
       "name": "ANTARA Business & Investment",
       "country": "Indonesia",
       "url": "https://en.antaranews.com/rss/business-investment.xml",
-      "checkedAt": "2026-11-28T04:57:34.512736+00:00",
+      "checkedAt": "2026-11-28T14:06:39.344423+00:00",
       "ok": true,
       "itemsFound": 30
     },
@@ -380,9 +380,9 @@
       "name": "Singapore Food Agency",
       "country": "Singapore",
       "url": "https://www.sfa.gov.sg/rss/newsroom",
-      "checkedAt": "2026-11-28T04:57:34.512736+00:00",
-      "ok": true,
-      "itemsFound": 0
+      "checkedAt": "2026-11-28T14:06:39.344423+00:00",
+      "ok": false,
+      "error": "ParseError: no element found: line 1, column 0"
     }
   ],
   "coverageNote": "Initial live coverage: selected Indonesian business news and Singapore food-sector announcements. Other ASEAN countries are not yet connected to live feeds."
